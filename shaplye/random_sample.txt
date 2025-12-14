@@ -1,0 +1,82 @@
+Order : 1102
+Parcel ID : 0528326110
+Building Class : 060
+Zoning Classification : RL
+Lot Frontage (ft) : 
+Lot Area (sqft) : 11000
+Street Type : Pave
+Alley Access : NA
+Lot Shape : Reg
+Land Contour : Lvl
+Utilities : AllPub
+Lot Configuration : FR2
+Land Slope : Gtl
+Neighborhood : NoRidge
+Proximity to Conditions 1 : Norm
+Proximity to Conditions 2 : Norm
+Building Type : 1Fam
+House Style : 2Story
+Overall Quality : 9
+Overall Condition : 5
+Year Built : 2000
+Year Remodeled/Added : 2000
+Roof Style : Hip
+Roof Material : CompShg
+Exterior Covering 1 : VinylSd
+Exterior Covering 2 : VinylSd
+Masonry Veneer Type : BrkFace
+Masonry Veneer Area (sqft) : 295
+Exterior Quality : Gd
+Exterior Condition : TA
+Foundation Type : PConc
+Basement Height Quality : Ex
+Basement Condition : TA
+Basement Exposure : Mn
+Basement Finish Type 1 : Unf
+Basement Finished Area 1 (sqft) : 0
+Basement Finish Type 2 : Unf
+Basement Finished Area 2 (sqft) : 0
+Basement Unfinished Area (sqft) : 1519
+Total Basement Area (sqft) : 1519
+Heating Type : GasA
+Heating Quality : Ex
+Central Air Conditioning : Y
+Electrical System : SBrkr
+First Floor Area (sqft) : 1533
+Second Floor Area (sqft) : 639
+Low Quality Finished Area (sqft) : 0
+Above Ground Living Area (sqft) : 2172
+Basement Full Bathrooms : 0
+Basement Half Bathrooms : 0
+Full Bathrooms : 2
+Half Bathrooms : 1
+Bedrooms Above Ground : 4
+Kitchens Above Ground : 1
+Kitchen Quality : Ex
+Total Rooms Above Ground : 8
+Functional Rating : Typ
+Number of Fireplaces : 1
+Fireplace Quality : TA
+Garage Type : BuiltIn
+Garage Year Built : 2000
+Garage Finish Type : RFn
+Garage Capacity (Cars) : 3
+Garage Area (sqft) : 687
+Garage Quality : TA
+Garage Condition : TA
+Paved Driveway : Y
+Wood Deck Area (sqft) : 162
+Open Porch Area (sqft) : 153
+Enclosed Porch Area (sqft) : 0
+Three-Season Porch Area (sqft) : 0
+Screen Porch Area (sqft) : 0
+Pool Area (sqft) : 0
+Pool Quality : NA
+Fence Quality : NA
+Miscellaneous Feature : NA
+Miscellaneous Value : 0
+Month Sold : 6
+Year Sold : 2008
+Sale Type : WD 
+Sale Condition : Normal
+Sale Price : 291000

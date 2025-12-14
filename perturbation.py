@@ -272,8 +272,6 @@ def run_experiment():
                     )
 
         print(f"   -> Finished logs for Parcel {parcel_id}")
-        with open(RESULTS_FILE, "w") as res_file:
-            res_file.write(f"Processed house {i} at : {datetime.now()}\n")
 
     print("\n\nExperiment Completed. Check 'results.txt' for final data.")
 

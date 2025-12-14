@@ -1,0 +1,24 @@
+Baseline Price: 245000.0
+----------------------------------------
+Feature: Neighborhood              | Changed 'NWAmes' -> 'Not Available' | New Price: 235000.0 | Impact: 10000.0
+Feature: Overall Quality           | Changed '7' -> '0' | New Price: 185000.0 | Impact: 60000.0
+Feature: Overall Condition         | Changed '5' -> '0' | New Price: 245000.0 | Impact: 0.0
+Feature: Year Built                | Changed '1977' -> '20' | New Price: 247000.0 | Impact: 2000.0
+Feature: Year Remodeled/Added      | Changed '1977' -> '20' | New Price: 245000.0 | Impact: 0.0
+Feature: Exterior Quality          | Changed 'TA' -> 'Not Available' | New Price: 235000.0 | Impact: 10000.0
+Feature: Exterior Condition        | Changed 'Gd' -> 'Not Available' | New Price: 235000.0 | Impact: 10000.0
+Feature: Basement Height Quality   | Changed 'TA' -> 'Not Available' | New Price: 235000.0 | Impact: 10000.0
+Feature: Basement Condition        | Changed 'TA' -> 'Not Available' | New Price: 235000.0 | Impact: 10000.0
+Feature: Basement Finished Area 1 (sqft) | Changed '822' -> '8' | New Price: 235000.0 | Impact: 10000.0
+Feature: Total Basement Area (sqft) | Changed '1386' -> '14' | New Price: 245000.0 | Impact: 0.0
+Feature: Heating Quality           | Changed 'TA' -> 'Not Available' | New Price: 235000.0 | Impact: 10000.0
+Feature: Central Air Conditioning  | Changed 'Y' -> 'Not Available' | New Price: 235000.0 | Impact: 10000.0
+Feature: First Floor Area (sqft)   | Changed '1411' -> '14' | New Price: 235000.0 | Impact: 10000.0
+Feature: Above Ground Living Area (sqft) | Changed '1411' -> '14' | New Price: 245000.0 | Impact: 0.0
+Feature: Basement Full Bathrooms   | Changed '0' -> '0' | New Price: 245000.0 | Impact: 0.0
+Feature: Full Bathrooms            | Changed '2' -> '0' | New Price: 235000.0 | Impact: 10000.0
+Feature: Bedrooms Above Ground     | Changed '3' -> '0' | New Price: 245000.0 | Impact: 0.0
+Feature: Kitchen Quality           | Changed 'TA' -> 'Not Available' | New Price: 245000.0 | Impact: 0.0
+Feature: Garage Type               | Changed 'Attchd' -> 'Not Available' | New Price: 245000.0 | Impact: 0.0
+Feature: Garage Capacity (Cars)    | Changed '2' -> '0' | New Price: 245000.0 | Impact: 0.0
+Feature: Garage Area (sqft)        | Changed '544' -> '5' | New Price: 245000.0 | Impact: 0.0

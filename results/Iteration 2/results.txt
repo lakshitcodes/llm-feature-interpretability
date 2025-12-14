@@ -1,0 +1,1564 @@
+Experiment Started: 2025-12-14 17:44:48.846676
+Parcel_ID, Feature_Perturbed, Original_Price, New_Price, Importance_Score
+531475220, Neighborhood, 245000.0, 245000.0, 0.0
+531475220, Overall Quality, 245000.0, 235000.0, 10000.0
+531475220, Overall Condition, 245000.0, 245000.0, 0.0
+531475220, Year Built, 245000.0, 245000.0, 0.0
+531475220, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+531475220, Exterior Quality, 245000.0, 245000.0, 0.0
+531475220, Exterior Condition, 245000.0, 245000.0, 0.0
+531475220, Basement Height Quality, 245000.0, 245000.0, 0.0
+531475220, Basement Condition, 245000.0, 245000.0, 0.0
+531475220, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+531475220, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+531475220, Heating Quality, 245000.0, 245000.0, 0.0
+531475220, Central Air Conditioning, 245000.0, 245000.0, 0.0
+531475220, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+531475220, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+531475220, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+531475220, Full Bathrooms, 245000.0, 245000.0, 0.0
+531475220, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+531475220, Kitchen Quality, 245000.0, 245000.0, 0.0
+531475220, Garage Type, 245000.0, 245000.0, 0.0
+531475220, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+531475220, Garage Area (sqft), 245000.0, 245000.0, 0.0
+531385020, Neighborhood, 235000.0, 235000.0, 0.0
+531385020, Overall Quality, 235000.0, 185000.0, 50000.0
+531385020, Overall Condition, 235000.0, 235000.0, 0.0
+531385020, Year Built, 235000.0, 235000.0, 0.0
+531385020, Year Remodeled/Added, 235000.0, 235000.0, 0.0
+531385020, Exterior Quality, 235000.0, 235000.0, 0.0
+531385020, Exterior Condition, 235000.0, 235000.0, 0.0
+531385020, Basement Height Quality, 235000.0, 235000.0, 0.0
+531385020, Basement Condition, 235000.0, 235000.0, 0.0
+531385020, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+531385020, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+531385020, Heating Quality, 235000.0, 235000.0, 0.0
+531385020, Central Air Conditioning, 235000.0, 235000.0, 0.0
+531385020, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+531385020, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+531385020, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+531385020, Full Bathrooms, 235000.0, 235000.0, 0.0
+531385020, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+531385020, Kitchen Quality, 235000.0, 235000.0, 0.0
+531385020, Garage Type, 235000.0, 235000.0, 0.0
+531385020, Garage Capacity (Cars), 235000.0, 235000.0, 0.0
+531385020, Garage Area (sqft), 235000.0, 235000.0, 0.0
+527162110, Neighborhood, 245000.0, 245000.0, 0.0
+527162110, Overall Quality, 245000.0, 235000.0, 10000.0
+527162110, Overall Condition, 245000.0, 245000.0, 0.0
+527162110, Year Built, 245000.0, 245000.0, 0.0
+527162110, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+527162110, Exterior Quality, 245000.0, 245000.0, 0.0
+527162110, Exterior Condition, 245000.0, 245000.0, 0.0
+527162110, Basement Height Quality, 245000.0, 245000.0, 0.0
+527162110, Basement Condition, 245000.0, 245000.0, 0.0
+527162110, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+527162110, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+527162110, Heating Quality, 245000.0, 245000.0, 0.0
+527162110, Central Air Conditioning, 245000.0, 245000.0, 0.0
+527162110, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+527162110, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+527162110, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+527162110, Full Bathrooms, 245000.0, 245000.0, 0.0
+527162110, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+527162110, Kitchen Quality, 245000.0, 245000.0, 0.0
+527162110, Garage Type, 245000.0, 245000.0, 0.0
+527162110, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+527162110, Garage Area (sqft), 245000.0, 245000.0, 0.0
+905226080, Neighborhood, 235000.0, 235000.0, 0.0
+905226080, Overall Quality, 235000.0, 215000.0, 20000.0
+905226080, Overall Condition, 235000.0, 235000.0, 0.0
+905226080, Year Built, 235000.0, 235000.0, 0.0
+905226080, Year Remodeled/Added, 235000.0, 225000.0, 10000.0
+905226080, Exterior Quality, 235000.0, 245000.0, 10000.0
+905226080, Exterior Condition, 235000.0, 235000.0, 0.0
+905226080, Basement Height Quality, 235000.0, 235000.0, 0.0
+905226080, Basement Condition, 235000.0, 235000.0, 0.0
+905226080, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+905226080, Total Basement Area (sqft), 235000.0, 245000.0, 10000.0
+905226080, Heating Quality, 235000.0, 235000.0, 0.0
+905226080, Central Air Conditioning, 235000.0, 235000.0, 0.0
+905226080, First Floor Area (sqft), 235000.0, 245000.0, 10000.0
+905226080, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+905226080, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+905226080, Full Bathrooms, 235000.0, 235000.0, 0.0
+905226080, Bedrooms Above Ground, 235000.0, 245000.0, 10000.0
+905226080, Kitchen Quality, 235000.0, 235000.0, 0.0
+905226080, Garage Type, 235000.0, 235000.0, 0.0
+905226080, Garage Capacity (Cars), 235000.0, 245000.0, 10000.0
+905226080, Garage Area (sqft), 235000.0, 235000.0, 0.0
+907201230, Neighborhood, 245000.0, 245000.0, 0.0
+907201230, Overall Quality, 245000.0, 215000.0, 30000.0
+907201230, Overall Condition, 245000.0, 245000.0, 0.0
+907201230, Year Built, 245000.0, 245000.0, 0.0
+907201230, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+907201230, Exterior Quality, 245000.0, 245000.0, 0.0
+907201230, Exterior Condition, 245000.0, 245000.0, 0.0
+907201230, Basement Height Quality, 245000.0, 245000.0, 0.0
+907201230, Basement Condition, 245000.0, 245000.0, 0.0
+907201230, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+907201230, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+907201230, Heating Quality, 245000.0, 245000.0, 0.0
+907201230, Central Air Conditioning, 245000.0, 245000.0, 0.0
+907201230, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+907201230, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+907201230, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+907201230, Full Bathrooms, 245000.0, 245000.0, 0.0
+907201230, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+907201230, Kitchen Quality, 245000.0, 245000.0, 0.0
+907201230, Garage Type, 245000.0, 245000.0, 0.0
+907201230, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+907201230, Garage Area (sqft), 245000.0, 245000.0, 0.0
+527326040, Neighborhood, 245000.0, 235000.0, 10000.0
+527326040, Overall Quality, 245000.0, 185000.0, 60000.0
+527326040, Overall Condition, 245000.0, 245000.0, 0.0
+527326040, Year Built, 245000.0, 247000.0, 2000.0
+527326040, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+527326040, Exterior Quality, 245000.0, 235000.0, 10000.0
+527326040, Exterior Condition, 245000.0, 235000.0, 10000.0
+527326040, Basement Height Quality, 245000.0, 235000.0, 10000.0
+527326040, Basement Condition, 245000.0, 235000.0, 10000.0
+527326040, Basement Finished Area 1 (sqft), 245000.0, 235000.0, 10000.0
+527326040, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+527326040, Heating Quality, 245000.0, 235000.0, 10000.0
+527326040, Central Air Conditioning, 245000.0, 235000.0, 10000.0
+527326040, First Floor Area (sqft), 245000.0, 235000.0, 10000.0
+527326040, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+527326040, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+527326040, Full Bathrooms, 245000.0, 235000.0, 10000.0
+527326040, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+527326040, Kitchen Quality, 245000.0, 245000.0, 0.0
+527326040, Garage Type, 245000.0, 245000.0, 0.0
+527326040, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+527326040, Garage Area (sqft), 245000.0, 245000.0, 0.0
+910201020, Neighborhood, 185000.0, 215000.0, 30000.0
+910201020, Overall Quality, 185000.0, 165000.0, 20000.0
+910201020, Overall Condition, 185000.0, 185000.0, 0.0
+910201020, Year Built, 185000.0, 185000.0, 0.0
+910201020, Year Remodeled/Added, 185000.0, 215000.0, 30000.0
+910201020, Exterior Quality, 185000.0, 165000.0, 20000.0
+910201020, Exterior Condition, 185000.0, 185000.0, 0.0
+910201020, Basement Height Quality, 185000.0, 185000.0, 0.0
+910201020, Basement Condition, 185000.0, 185000.0, 0.0
+910201020, Basement Finished Area 1 (sqft), 185000.0, 185000.0, 0.0
+910201020, Total Basement Area (sqft), 185000.0, 185000.0, 0.0
+910201020, Heating Quality, 185000.0, 215000.0, 30000.0
+910201020, Central Air Conditioning, 185000.0, 215000.0, 30000.0
+910201020, First Floor Area (sqft), 185000.0, 185000.0, 0.0
+910201020, Above Ground Living Area (sqft), 185000.0, 215000.0, 30000.0
+910201020, Basement Full Bathrooms, 185000.0, 185000.0, 0.0
+910201020, Full Bathrooms, 185000.0, 185000.0, 0.0
+910201020, Bedrooms Above Ground, 185000.0, 185000.0, 0.0
+910201020, Kitchen Quality, 185000.0, 185000.0, 0.0
+910201020, Garage Type, 185000.0, 185000.0, 0.0
+910201020, Garage Capacity (Cars), 185000.0, 185000.0, 0.0
+910201020, Garage Area (sqft), 185000.0, 185000.0, 0.0
+535353040, Neighborhood, 215000.0, 215000.0, 0.0
+535353040, Overall Quality, 215000.0, 165000.0, 50000.0
+535353040, Overall Condition, 215000.0, 215000.0, 0.0
+535353040, Year Built, 215000.0, 222000.0, 7000.0
+535353040, Year Remodeled/Added, 215000.0, 215000.0, 0.0
+535353040, Exterior Quality, 215000.0, 215000.0, 0.0
+535353040, Exterior Condition, 215000.0, 215000.0, 0.0
+535353040, Basement Height Quality, 215000.0, 215000.0, 0.0
+535353040, Basement Condition, 215000.0, 215000.0, 0.0
+535353040, Basement Finished Area 1 (sqft), 215000.0, 175000.0, 40000.0
+535353040, Total Basement Area (sqft), 215000.0, 215000.0, 0.0
+535353040, Heating Quality, 215000.0, 215000.0, 0.0
+535353040, Central Air Conditioning, 215000.0, 215000.0, 0.0
+535353040, First Floor Area (sqft), 215000.0, 215000.0, 0.0
+535353040, Above Ground Living Area (sqft), 215000.0, 215000.0, 0.0
+535353040, Basement Full Bathrooms, 215000.0, 215000.0, 0.0
+535353040, Full Bathrooms, 215000.0, 215000.0, 0.0
+535353040, Bedrooms Above Ground, 215000.0, 215000.0, 0.0
+535353040, Kitchen Quality, 215000.0, 215000.0, 0.0
+535353040, Garage Type, 215000.0, 215000.0, 0.0
+535353040, Garage Capacity (Cars), 215000.0, 215000.0, 0.0
+535353040, Garage Area (sqft), 215000.0, 215000.0, 0.0
+911103060, Neighborhood, 255000.0, 265000.0, 10000.0
+911103060, Overall Quality, 255000.0, 235000.0, 20000.0
+911103060, Overall Condition, 255000.0, 245000.0, 10000.0
+911103060, Year Built, 255000.0, 245000.0, 10000.0
+911103060, Year Remodeled/Added, 255000.0, 245000.0, 10000.0
+911103060, Exterior Quality, 255000.0, 245000.0, 10000.0
+911103060, Exterior Condition, 255000.0, 255000.0, 0.0
+911103060, Basement Height Quality, 255000.0, 245000.0, 10000.0
+911103060, Basement Condition, 255000.0, 255000.0, 0.0
+911103060, Basement Finished Area 1 (sqft), 255000.0, 255000.0, 0.0
+911103060, Total Basement Area (sqft), 255000.0, 255000.0, 0.0
+911103060, Heating Quality, 255000.0, 255000.0, 0.0
+911103060, Central Air Conditioning, 255000.0, 255000.0, 0.0
+911103060, First Floor Area (sqft), 255000.0, 265000.0, 10000.0
+911103060, Above Ground Living Area (sqft), 255000.0, 245000.0, 10000.0
+911103060, Basement Full Bathrooms, 255000.0, 255000.0, 0.0
+911103060, Full Bathrooms, 255000.0, 245000.0, 10000.0
+911103060, Bedrooms Above Ground, 255000.0, 245000.0, 10000.0
+911103060, Kitchen Quality, 255000.0, 245000.0, 10000.0
+911103060, Garage Type, 255000.0, 255000.0, 0.0
+911103060, Garage Capacity (Cars), 255000.0, 255000.0, 0.0
+911103060, Garage Area (sqft), 255000.0, 255000.0, 0.0
+907405020, Neighborhood, 235000.0, 235000.0, 0.0
+907405020, Overall Quality, 235000.0, 215000.0, 20000.0
+907405020, Overall Condition, 235000.0, 235000.0, 0.0
+907405020, Year Built, 235000.0, 245000.0, 10000.0
+907405020, Year Remodeled/Added, 235000.0, 235000.0, 0.0
+907405020, Exterior Quality, 235000.0, 235000.0, 0.0
+907405020, Exterior Condition, 235000.0, 235000.0, 0.0
+907405020, Basement Height Quality, 235000.0, 235000.0, 0.0
+907405020, Basement Condition, 235000.0, 235000.0, 0.0
+907405020, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+907405020, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+907405020, Heating Quality, 235000.0, 235000.0, 0.0
+907405020, Central Air Conditioning, 235000.0, 235000.0, 0.0
+907405020, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+907405020, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+907405020, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+907405020, Full Bathrooms, 235000.0, 235000.0, 0.0
+907405020, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+907405020, Kitchen Quality, 235000.0, 235000.0, 0.0
+907405020, Garage Type, 235000.0, 235000.0, 0.0
+907405020, Garage Capacity (Cars), 235000.0, 235000.0, 0.0
+907405020, Garage Area (sqft), 235000.0, 225000.0, 10000.0
+534403040, Neighborhood, 222000.0, 235000.0, 13000.0
+534403040, Overall Quality, 222000.0, 215000.0, 7000.0
+534403040, Overall Condition, 222000.0, 222000.0, 0.0
+534403040, Year Built, 222000.0, 218000.0, 4000.0
+534403040, Year Remodeled/Added, 222000.0, 215000.0, 7000.0
+534403040, Exterior Quality, 222000.0, 222000.0, 0.0
+534403040, Exterior Condition, 222000.0, 225000.0, 3000.0
+534403040, Basement Height Quality, 222000.0, 222000.0, 0.0
+534403040, Basement Condition, 222000.0, 222000.0, 0.0
+534403040, Basement Finished Area 1 (sqft), 222000.0, 222000.0, 0.0
+534403040, Total Basement Area (sqft), 222000.0, 235000.0, 13000.0
+534403040, Heating Quality, 222000.0, 222000.0, 0.0
+534403040, Central Air Conditioning, 222000.0, 222000.0, 0.0
+534403040, First Floor Area (sqft), 222000.0, 228000.0, 6000.0
+534403040, Above Ground Living Area (sqft), 222000.0, 222000.0, 0.0
+534403040, Basement Full Bathrooms, 222000.0, 222000.0, 0.0
+534403040, Full Bathrooms, 222000.0, 222000.0, 0.0
+534403040, Bedrooms Above Ground, 222000.0, 222000.0, 0.0
+534403040, Kitchen Quality, 222000.0, 222000.0, 0.0
+534403040, Garage Type, 222000.0, 235000.0, 13000.0
+534403040, Garage Capacity (Cars), 222000.0, 222000.0, 0.0
+534403040, Garage Area (sqft), 222000.0, 225000.0, 3000.0
+906378100, Neighborhood, 255000.0, 255000.0, 0.0
+906378100, Overall Quality, 255000.0, 235000.0, 20000.0
+906378100, Overall Condition, 255000.0, 258000.0, 3000.0
+906378100, Year Built, 255000.0, 258000.0, 3000.0
+906378100, Year Remodeled/Added, 255000.0, 255000.0, 0.0
+906378100, Exterior Quality, 255000.0, 255000.0, 0.0
+906378100, Exterior Condition, 255000.0, 255000.0, 0.0
+906378100, Basement Height Quality, 255000.0, 255000.0, 0.0
+906378100, Basement Condition, 255000.0, 255000.0, 0.0
+906378100, Basement Finished Area 1 (sqft), 255000.0, 255000.0, 0.0
+906378100, Total Basement Area (sqft), 255000.0, 255000.0, 0.0
+906378100, Heating Quality, 255000.0, 255000.0, 0.0
+906378100, Central Air Conditioning, 255000.0, 255000.0, 0.0
+906378100, First Floor Area (sqft), 255000.0, 255000.0, 0.0
+906378100, Above Ground Living Area (sqft), 255000.0, 255000.0, 0.0
+906378100, Basement Full Bathrooms, 255000.0, 255000.0, 0.0
+906378100, Full Bathrooms, 255000.0, 255000.0, 0.0
+906378100, Bedrooms Above Ground, 255000.0, 255000.0, 0.0
+906378100, Kitchen Quality, 255000.0, 255000.0, 0.0
+906378100, Garage Type, 255000.0, 255000.0, 0.0
+906378100, Garage Capacity (Cars), 255000.0, 245000.0, 10000.0
+906378100, Garage Area (sqft), 255000.0, 255000.0, 0.0
+905377050, Neighborhood, 215000.0, 185000.0, 30000.0
+905377050, Overall Quality, 215000.0, 185000.0, 30000.0
+905377050, Overall Condition, 215000.0, 215000.0, 0.0
+905377050, Year Built, 215000.0, 215000.0, 0.0
+905377050, Year Remodeled/Added, 215000.0, 215000.0, 0.0
+905377050, Exterior Quality, 215000.0, 215000.0, 0.0
+905377050, Exterior Condition, 215000.0, 215000.0, 0.0
+905377050, Basement Height Quality, 215000.0, 215000.0, 0.0
+905377050, Basement Condition, 215000.0, 215000.0, 0.0
+905377050, Basement Finished Area 1 (sqft), 215000.0, 215000.0, 0.0
+905377050, Total Basement Area (sqft), 215000.0, 215000.0, 0.0
+905377050, Heating Quality, 215000.0, 215000.0, 0.0
+905377050, Central Air Conditioning, 215000.0, 215000.0, 0.0
+905377050, First Floor Area (sqft), 215000.0, 225000.0, 10000.0
+905377050, Above Ground Living Area (sqft), 215000.0, 215000.0, 0.0
+905377050, Basement Full Bathrooms, 215000.0, 215000.0, 0.0
+905377050, Full Bathrooms, 215000.0, 215000.0, 0.0
+905377050, Bedrooms Above Ground, 215000.0, 215000.0, 0.0
+905377050, Kitchen Quality, 215000.0, 215000.0, 0.0
+905377050, Garage Type, 215000.0, 215000.0, 0.0
+905377050, Garage Capacity (Cars), 215000.0, 215000.0, 0.0
+905377050, Garage Area (sqft), 215000.0, 215000.0, 0.0
+902205130, Neighborhood, 215000.0, 185000.0, 30000.0
+902205130, Overall Quality, 215000.0, 185000.0, 30000.0
+902205130, Overall Condition, 215000.0, 215000.0, 0.0
+902205130, Year Built, 215000.0, 215000.0, 0.0
+902205130, Year Remodeled/Added, 215000.0, 215000.0, 0.0
+902205130, Exterior Quality, 215000.0, 185000.0, 30000.0
+902205130, Exterior Condition, 215000.0, 185000.0, 30000.0
+902205130, Basement Height Quality, 215000.0, 185000.0, 30000.0
+902205130, Basement Condition, 215000.0, 215000.0, 0.0
+902205130, Basement Finished Area 1 (sqft), 215000.0, 215000.0, 0.0
+902205130, Total Basement Area (sqft), 215000.0, 185000.0, 30000.0
+902205130, Heating Quality, 215000.0, 185000.0, 30000.0
+902205130, Central Air Conditioning, 215000.0, 185000.0, 30000.0
+902205130, First Floor Area (sqft), 215000.0, 215000.0, 0.0
+902205130, Above Ground Living Area (sqft), 215000.0, 215000.0, 0.0
+902205130, Basement Full Bathrooms, 215000.0, 215000.0, 0.0
+902205130, Full Bathrooms, 215000.0, 185000.0, 30000.0
+902205130, Bedrooms Above Ground, 215000.0, 215000.0, 0.0
+902205130, Kitchen Quality, 215000.0, 215000.0, 0.0
+902205130, Garage Type, 215000.0, 215000.0, 0.0
+902205130, Garage Capacity (Cars), 215000.0, 215000.0, 0.0
+902205130, Garage Area (sqft), 215000.0, 215000.0, 0.0
+535179120, Neighborhood, 215000.0, 185000.0, 30000.0
+535179120, Overall Quality, 215000.0, 175000.0, 40000.0
+535179120, Overall Condition, 215000.0, 215000.0, 0.0
+535179120, Year Built, 215000.0, 215000.0, 0.0
+535179120, Year Remodeled/Added, 215000.0, 215000.0, 0.0
+535179120, Exterior Quality, 215000.0, 215000.0, 0.0
+535179120, Exterior Condition, 215000.0, 215000.0, 0.0
+535179120, Basement Height Quality, 215000.0, 215000.0, 0.0
+535179120, Basement Condition, 215000.0, 215000.0, 0.0
+535179120, Basement Finished Area 1 (sqft), 215000.0, 185000.0, 30000.0
+535179120, Total Basement Area (sqft), 215000.0, 215000.0, 0.0
+535179120, Heating Quality, 215000.0, 215000.0, 0.0
+535179120, Central Air Conditioning, 215000.0, 215000.0, 0.0
+535179120, First Floor Area (sqft), 215000.0, 215000.0, 0.0
+535179120, Above Ground Living Area (sqft), 215000.0, 215000.0, 0.0
+535179120, Basement Full Bathrooms, 215000.0, 215000.0, 0.0
+535179120, Full Bathrooms, 215000.0, 215000.0, 0.0
+535179120, Bedrooms Above Ground, 215000.0, 215000.0, 0.0
+535179120, Kitchen Quality, 215000.0, 215000.0, 0.0
+535179120, Garage Type, 215000.0, 215000.0, 0.0
+535179120, Garage Capacity (Cars), 215000.0, 215000.0, 0.0
+535179120, Garage Area (sqft), 215000.0, 215000.0, 0.0
+528326110, Neighborhood, 265000.0, 265000.0, 0.0
+528326110, Overall Quality, 265000.0, 265000.0, 0.0
+528326110, Overall Condition, 265000.0, 285000.0, 20000.0
+528326110, Year Built, 265000.0, 285000.0, 20000.0
+528326110, Year Remodeled/Added, 265000.0, 285000.0, 20000.0
+528326110, Exterior Quality, 265000.0, 285000.0, 20000.0
+528326110, Exterior Condition, 265000.0, 285000.0, 20000.0
+528326110, Basement Height Quality, 265000.0, 285000.0, 20000.0
+528326110, Basement Condition, 265000.0, 285000.0, 20000.0
+528326110, Basement Finished Area 1 (sqft), 265000.0, 285000.0, 20000.0
+528326110, Total Basement Area (sqft), 265000.0, 265000.0, 0.0
+528326110, Heating Quality, 265000.0, 265000.0, 0.0
+528326110, Central Air Conditioning, 265000.0, 265000.0, 0.0
+528326110, First Floor Area (sqft), 265000.0, 288000.0, 23000.0
+528326110, Above Ground Living Area (sqft), 265000.0, 265000.0, 0.0
+528326110, Basement Full Bathrooms, 265000.0, 265000.0, 0.0
+528326110, Full Bathrooms, 265000.0, 285000.0, 20000.0
+528326110, Bedrooms Above Ground, 265000.0, 265000.0, 0.0
+528326110, Kitchen Quality, 265000.0, 265000.0, 0.0
+528326110, Garage Type, 265000.0, 285000.0, 20000.0
+528326110, Garage Capacity (Cars), 265000.0, 265000.0, 0.0
+528326110, Garage Area (sqft), 265000.0, 265000.0, 0.0
+902109160, Neighborhood, 245000.0, 235000.0, 10000.0
+902109160, Overall Quality, 245000.0, 225000.0, 20000.0
+902109160, Overall Condition, 245000.0, 235000.0, 10000.0
+902109160, Year Built, 245000.0, 245000.0, 0.0
+902109160, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+902109160, Exterior Quality, 245000.0, 245000.0, 0.0
+902109160, Exterior Condition, 245000.0, 245000.0, 0.0
+902109160, Basement Height Quality, 245000.0, 245000.0, 0.0
+902109160, Basement Condition, 245000.0, 245000.0, 0.0
+902109160, Basement Finished Area 1 (sqft), 245000.0, 235000.0, 10000.0
+902109160, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+902109160, Heating Quality, 245000.0, 245000.0, 0.0
+902109160, Central Air Conditioning, 245000.0, 245000.0, 0.0
+902109160, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+902109160, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+902109160, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+902109160, Full Bathrooms, 245000.0, 235000.0, 10000.0
+902109160, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+902109160, Kitchen Quality, 245000.0, 245000.0, 0.0
+902109160, Garage Type, 245000.0, 245000.0, 0.0
+902109160, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+902109160, Garage Area (sqft), 245000.0, 245000.0, 0.0
+905477050, Neighborhood, 245000.0, 245000.0, 0.0
+905477050, Overall Quality, 245000.0, 235000.0, 10000.0
+905477050, Overall Condition, 245000.0, 245000.0, 0.0
+905477050, Year Built, 245000.0, 245000.0, 0.0
+905477050, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+905477050, Exterior Quality, 245000.0, 245000.0, 0.0
+905477050, Exterior Condition, 245000.0, 245000.0, 0.0
+905477050, Basement Height Quality, 245000.0, 245000.0, 0.0
+905477050, Basement Condition, 245000.0, 245000.0, 0.0
+905477050, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+905477050, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+905477050, Heating Quality, 245000.0, 245000.0, 0.0
+905477050, Central Air Conditioning, 245000.0, 245000.0, 0.0
+905477050, First Floor Area (sqft), 245000.0, 265000.0, 20000.0
+905477050, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+905477050, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+905477050, Full Bathrooms, 245000.0, 245000.0, 0.0
+905477050, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+905477050, Kitchen Quality, 245000.0, 245000.0, 0.0
+905477050, Garage Type, 245000.0, 245000.0, 0.0
+905477050, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+905477050, Garage Area (sqft), 245000.0, 245000.0, 0.0
+908152060, Neighborhood, 235000.0, 225000.0, 10000.0
+908152060, Overall Quality, 235000.0, 185000.0, 50000.0
+908152060, Overall Condition, 235000.0, 225000.0, 10000.0
+908152060, Year Built, 235000.0, 225000.0, 10000.0
+908152060, Year Remodeled/Added, 235000.0, 235000.0, 0.0
+908152060, Exterior Quality, 235000.0, 225000.0, 10000.0
+908152060, Exterior Condition, 235000.0, 235000.0, 0.0
+908152060, Basement Height Quality, 235000.0, 235000.0, 0.0
+908152060, Basement Condition, 235000.0, 235000.0, 0.0
+908152060, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+908152060, Total Basement Area (sqft), 235000.0, 225000.0, 10000.0
+908152060, Heating Quality, 235000.0, 235000.0, 0.0
+908152060, Central Air Conditioning, 235000.0, 235000.0, 0.0
+908152060, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+908152060, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+908152060, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+908152060, Full Bathrooms, 235000.0, 235000.0, 0.0
+908152060, Bedrooms Above Ground, 235000.0, 225000.0, 10000.0
+908152060, Kitchen Quality, 235000.0, 235000.0, 0.0
+908152060, Garage Type, 235000.0, 235000.0, 0.0
+908152060, Garage Capacity (Cars), 235000.0, 225000.0, 10000.0
+908152060, Garage Area (sqft), 235000.0, 235000.0, 0.0
+528228455, Neighborhood, 235000.0, 225000.0, 10000.0
+528228455, Overall Quality, 235000.0, 185000.0, 50000.0
+528228455, Overall Condition, 235000.0, 225000.0, 10000.0
+528228455, Year Built, 235000.0, 225000.0, 10000.0
+528228455, Year Remodeled/Added, 235000.0, 235000.0, 0.0
+528228455, Exterior Quality, 235000.0, 225000.0, 10000.0
+528228455, Exterior Condition, 235000.0, 225000.0, 10000.0
+528228455, Basement Height Quality, 235000.0, 225000.0, 10000.0
+528228455, Basement Condition, 235000.0, 225000.0, 10000.0
+528228455, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+528228455, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+528228455, Heating Quality, 235000.0, 225000.0, 10000.0
+528228455, Central Air Conditioning, 235000.0, 235000.0, 0.0
+528228455, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+528228455, Above Ground Living Area (sqft), 235000.0, 225000.0, 10000.0
+528228455, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+528228455, Full Bathrooms, 235000.0, 225000.0, 10000.0
+528228455, Bedrooms Above Ground, 235000.0, 225000.0, 10000.0
+528228455, Kitchen Quality, 235000.0, 235000.0, 0.0
+528228455, Garage Type, 235000.0, 235000.0, 0.0
+528228455, Garage Capacity (Cars), 235000.0, 225000.0, 10000.0
+528228455, Garage Area (sqft), 235000.0, 225000.0, 10000.0
+527106010, Neighborhood, 245000.0, 245000.0, 0.0
+527106010, Overall Quality, 245000.0, 245000.0, 0.0
+527106010, Overall Condition, 245000.0, 245000.0, 0.0
+527106010, Year Built, 245000.0, 265000.0, 20000.0
+527106010, Year Remodeled/Added, 245000.0, 265000.0, 20000.0
+527106010, Exterior Quality, 245000.0, 245000.0, 0.0
+527106010, Exterior Condition, 245000.0, 255000.0, 10000.0
+527106010, Basement Height Quality, 245000.0, 245000.0, 0.0
+527106010, Basement Condition, 245000.0, 245000.0, 0.0
+527106010, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+527106010, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+527106010, Heating Quality, 245000.0, 245000.0, 0.0
+527106010, Central Air Conditioning, 245000.0, 245000.0, 0.0
+527106010, First Floor Area (sqft), 245000.0, 265000.0, 20000.0
+527106010, Above Ground Living Area (sqft), 245000.0, 265000.0, 20000.0
+527106010, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+527106010, Full Bathrooms, 245000.0, 245000.0, 0.0
+527106010, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+527106010, Kitchen Quality, 245000.0, 245000.0, 0.0
+527106010, Garage Type, 245000.0, 245000.0, 0.0
+527106010, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+527106010, Garage Area (sqft), 245000.0, 245000.0, 0.0
+528228325, Neighborhood, 245000.0, 235000.0, 10000.0
+528228325, Overall Quality, 245000.0, 235000.0, 10000.0
+528228325, Overall Condition, 245000.0, 245000.0, 0.0
+528228325, Year Built, 245000.0, 245000.0, 0.0
+528228325, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+528228325, Exterior Quality, 245000.0, 245000.0, 0.0
+528228325, Exterior Condition, 245000.0, 245000.0, 0.0
+528228325, Basement Height Quality, 245000.0, 245000.0, 0.0
+528228325, Basement Condition, 245000.0, 245000.0, 0.0
+528228325, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+528228325, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+528228325, Heating Quality, 245000.0, 245000.0, 0.0
+528228325, Central Air Conditioning, 245000.0, 245000.0, 0.0
+528228325, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+528228325, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+528228325, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+528228325, Full Bathrooms, 245000.0, 245000.0, 0.0
+528228325, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+528228325, Kitchen Quality, 245000.0, 245000.0, 0.0
+528228325, Garage Type, 245000.0, 245000.0, 0.0
+528228325, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+528228325, Garage Area (sqft), 245000.0, 245000.0, 0.0
+531450030, Neighborhood, 245000.0, 245000.0, 0.0
+531450030, Overall Quality, 245000.0, 235000.0, 10000.0
+531450030, Overall Condition, 245000.0, 245000.0, 0.0
+531450030, Year Built, 245000.0, 245000.0, 0.0
+531450030, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+531450030, Exterior Quality, 245000.0, 245000.0, 0.0
+531450030, Exterior Condition, 245000.0, 235000.0, 10000.0
+531450030, Basement Height Quality, 245000.0, 245000.0, 0.0
+531450030, Basement Condition, 245000.0, 245000.0, 0.0
+531450030, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+531450030, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+531450030, Heating Quality, 245000.0, 245000.0, 0.0
+531450030, Central Air Conditioning, 245000.0, 245000.0, 0.0
+531450030, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+531450030, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+531450030, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+531450030, Full Bathrooms, 245000.0, 245000.0, 0.0
+531450030, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+531450030, Kitchen Quality, 245000.0, 245000.0, 0.0
+531450030, Garage Type, 245000.0, 245000.0, 0.0
+531450030, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+531450030, Garage Area (sqft), 245000.0, 245000.0, 0.0
+533212110, Neighborhood, 235000.0, 225000.0, 10000.0
+533212110, Overall Quality, 235000.0, 185000.0, 50000.0
+533212110, Overall Condition, 235000.0, 235000.0, 0.0
+533212110, Year Built, 235000.0, 225000.0, 10000.0
+533212110, Year Remodeled/Added, 235000.0, 235000.0, 0.0
+533212110, Exterior Quality, 235000.0, 225000.0, 10000.0
+533212110, Exterior Condition, 235000.0, 235000.0, 0.0
+533212110, Basement Height Quality, 235000.0, 235000.0, 0.0
+533212110, Basement Condition, 235000.0, 235000.0, 0.0
+533212110, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+533212110, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+533212110, Heating Quality, 235000.0, 225000.0, 10000.0
+533212110, Central Air Conditioning, 235000.0, 225000.0, 10000.0
+533212110, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+533212110, Above Ground Living Area (sqft), 235000.0, 225000.0, 10000.0
+533212110, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+533212110, Full Bathrooms, 235000.0, 225000.0, 10000.0
+533212110, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+533212110, Kitchen Quality, 235000.0, 235000.0, 0.0
+533212110, Garage Type, 235000.0, 225000.0, 10000.0
+533212110, Garage Capacity (Cars), 235000.0, 225000.0, 10000.0
+533212110, Garage Area (sqft), 235000.0, 225000.0, 10000.0
+535403010, Neighborhood, 235000.0, 235000.0, 0.0
+535403010, Overall Quality, 235000.0, 215000.0, 20000.0
+535403010, Overall Condition, 235000.0, 235000.0, 0.0
+535403010, Year Built, 235000.0, 247800.0, 12800.0
+535403010, Year Remodeled/Added, 235000.0, 247000.0, 12000.0
+535403010, Exterior Quality, 235000.0, 235000.0, 0.0
+535403010, Exterior Condition, 235000.0, 235000.0, 0.0
+535403010, Basement Height Quality, 235000.0, 235000.0, 0.0
+535403010, Basement Condition, 235000.0, 235000.0, 0.0
+535403010, Basement Finished Area 1 (sqft), 235000.0, 232000.0, 3000.0
+535403010, Total Basement Area (sqft), 235000.0, 247800.0, 12800.0
+535403010, Heating Quality, 235000.0, 235000.0, 0.0
+535403010, Central Air Conditioning, 235000.0, 235000.0, 0.0
+535403010, First Floor Area (sqft), 235000.0, 247500.0, 12500.0
+535403010, Above Ground Living Area (sqft), 235000.0, 247500.0, 12500.0
+535403010, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+535403010, Full Bathrooms, 235000.0, 235000.0, 0.0
+535403010, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+535403010, Kitchen Quality, 235000.0, 235000.0, 0.0
+535403010, Garage Type, 235000.0, 247500.0, 12500.0
+535403010, Garage Capacity (Cars), 235000.0, 235000.0, 0.0
+535403010, Garage Area (sqft), 235000.0, 247000.0, 12000.0
+905480240, Neighborhood, 215000.0, 215000.0, 0.0
+905480240, Overall Quality, 215000.0, 175000.0, 40000.0
+905480240, Overall Condition, 215000.0, 215000.0, 0.0
+905480240, Year Built, 215000.0, 215000.0, 0.0
+905480240, Year Remodeled/Added, 215000.0, 215000.0, 0.0
+905480240, Exterior Quality, 215000.0, 215000.0, 0.0
+905480240, Exterior Condition, 215000.0, 215000.0, 0.0
+905480240, Basement Height Quality, 215000.0, 215000.0, 0.0
+905480240, Basement Condition, 215000.0, 215000.0, 0.0
+905480240, Basement Finished Area 1 (sqft), 215000.0, 215000.0, 0.0
+905480240, Total Basement Area (sqft), 215000.0, 215000.0, 0.0
+905480240, Heating Quality, 215000.0, 215000.0, 0.0
+905480240, Central Air Conditioning, 215000.0, 215000.0, 0.0
+905480240, First Floor Area (sqft), 215000.0, 215000.0, 0.0
+905480240, Above Ground Living Area (sqft), 215000.0, 215000.0, 0.0
+905480240, Basement Full Bathrooms, 215000.0, 215000.0, 0.0
+905480240, Full Bathrooms, 215000.0, 215000.0, 0.0
+905480240, Bedrooms Above Ground, 215000.0, 215000.0, 0.0
+905480240, Kitchen Quality, 215000.0, 215000.0, 0.0
+905480240, Garage Type, 215000.0, 215000.0, 0.0
+905480240, Garage Capacity (Cars), 215000.0, 215000.0, 0.0
+905480240, Garage Area (sqft), 215000.0, 215000.0, 0.0
+902406090, Neighborhood, 245000.0, 245000.0, 0.0
+902406090, Overall Quality, 245000.0, 235000.0, 10000.0
+902406090, Overall Condition, 245000.0, 245000.0, 0.0
+902406090, Year Built, 245000.0, 245000.0, 0.0
+902406090, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+902406090, Exterior Quality, 245000.0, 235000.0, 10000.0
+902406090, Exterior Condition, 245000.0, 245000.0, 0.0
+902406090, Basement Height Quality, 245000.0, 245000.0, 0.0
+902406090, Basement Condition, 245000.0, 245000.0, 0.0
+902406090, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+902406090, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+902406090, Heating Quality, 245000.0, 245000.0, 0.0
+902406090, Central Air Conditioning, 245000.0, 245000.0, 0.0
+902406090, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+902406090, Above Ground Living Area (sqft), 245000.0, 235000.0, 10000.0
+902406090, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+902406090, Full Bathrooms, 245000.0, 235000.0, 10000.0
+902406090, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+902406090, Kitchen Quality, 245000.0, 245000.0, 0.0
+902406090, Garage Type, 245000.0, 245000.0, 0.0
+902406090, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+902406090, Garage Area (sqft), 245000.0, 245000.0, 0.0
+923225360, Neighborhood, 165000.0, 165000.0, 0.0
+923225360, Overall Quality, 165000.0, 155000.0, 10000.0
+923225360, Overall Condition, 165000.0, 165000.0, 0.0
+923225360, Year Built, 165000.0, 165000.0, 0.0
+923225360, Year Remodeled/Added, 165000.0, 175000.0, 10000.0
+923225360, Exterior Quality, 165000.0, 165000.0, 0.0
+923225360, Exterior Condition, 165000.0, 165000.0, 0.0
+923225360, Basement Height Quality, 165000.0, 165000.0, 0.0
+923225360, Basement Condition, 165000.0, 165000.0, 0.0
+923225360, Basement Finished Area 1 (sqft), 165000.0, 165000.0, 0.0
+923225360, Total Basement Area (sqft), 165000.0, 165000.0, 0.0
+923225360, Heating Quality, 165000.0, 165000.0, 0.0
+923225360, Central Air Conditioning, 165000.0, 165000.0, 0.0
+923225360, First Floor Area (sqft), 165000.0, 165000.0, 0.0
+923225360, Above Ground Living Area (sqft), 165000.0, 165000.0, 0.0
+923225360, Basement Full Bathrooms, 165000.0, 165000.0, 0.0
+923225360, Full Bathrooms, 165000.0, 165000.0, 0.0
+923225360, Bedrooms Above Ground, 165000.0, 165000.0, 0.0
+923225360, Kitchen Quality, 165000.0, 165000.0, 0.0
+923225360, Garage Type, 165000.0, 165000.0, 0.0
+923225360, Garage Capacity (Cars), 165000.0, 165000.0, 0.0
+923225360, Garage Area (sqft), 165000.0, 165000.0, 0.0
+528480100, Neighborhood, 245000.0, 245000.0, 0.0
+528480100, Overall Quality, 245000.0, 245000.0, 0.0
+528480100, Overall Condition, 245000.0, 245000.0, 0.0
+528480100, Year Built, 245000.0, 245000.0, 0.0
+528480100, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+528480100, Exterior Quality, 245000.0, 245000.0, 0.0
+528480100, Exterior Condition, 245000.0, 245000.0, 0.0
+528480100, Basement Height Quality, 245000.0, 245000.0, 0.0
+528480100, Basement Condition, 245000.0, 245000.0, 0.0
+528480100, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+528480100, Total Basement Area (sqft), 245000.0, 265000.0, 20000.0
+528480100, Heating Quality, 245000.0, 245000.0, 0.0
+528480100, Central Air Conditioning, 245000.0, 245000.0, 0.0
+528480100, First Floor Area (sqft), 245000.0, 265000.0, 20000.0
+528480100, Above Ground Living Area (sqft), 245000.0, 265000.0, 20000.0
+528480100, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+528480100, Full Bathrooms, 245000.0, 245000.0, 0.0
+528480100, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+528480100, Kitchen Quality, 245000.0, 245000.0, 0.0
+528480100, Garage Type, 245000.0, 265000.0, 20000.0
+528480100, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+528480100, Garage Area (sqft), 245000.0, 245000.0, 0.0
+528228555, Neighborhood, 265000.0, 245000.0, 20000.0
+528228555, Overall Quality, 265000.0, 245000.0, 20000.0
+528228555, Overall Condition, 265000.0, 265000.0, 0.0
+528228555, Year Built, 265000.0, 245000.0, 20000.0
+528228555, Year Remodeled/Added, 265000.0, 265000.0, 0.0
+528228555, Exterior Quality, 265000.0, 265000.0, 0.0
+528228555, Exterior Condition, 265000.0, 265000.0, 0.0
+528228555, Basement Height Quality, 265000.0, 265000.0, 0.0
+528228555, Basement Condition, 265000.0, 265000.0, 0.0
+528228555, Basement Finished Area 1 (sqft), 265000.0, 265000.0, 0.0
+528228555, Total Basement Area (sqft), 265000.0, 265000.0, 0.0
+528228555, Heating Quality, 265000.0, 265000.0, 0.0
+528228555, Central Air Conditioning, 265000.0, 265000.0, 0.0
+528228555, First Floor Area (sqft), 265000.0, 265000.0, 0.0
+528228555, Above Ground Living Area (sqft), 265000.0, 265000.0, 0.0
+528228555, Basement Full Bathrooms, 265000.0, 265000.0, 0.0
+528228555, Full Bathrooms, 265000.0, 245000.0, 20000.0
+528228555, Bedrooms Above Ground, 265000.0, 265000.0, 0.0
+528228555, Kitchen Quality, 265000.0, 265000.0, 0.0
+528228555, Garage Type, 265000.0, 265000.0, 0.0
+528228555, Garage Capacity (Cars), 265000.0, 265000.0, 0.0
+528228555, Garage Area (sqft), 265000.0, 245000.0, 20000.0
+923229110, Neighborhood, 245000.0, 245000.0, 0.0
+923229110, Overall Quality, 245000.0, 235000.0, 10000.0
+923229110, Overall Condition, 245000.0, 245000.0, 0.0
+923229110, Year Built, 245000.0, 235000.0, 10000.0
+923229110, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+923229110, Exterior Quality, 245000.0, 245000.0, 0.0
+923229110, Exterior Condition, 245000.0, 245000.0, 0.0
+923229110, Basement Height Quality, 245000.0, 245000.0, 0.0
+923229110, Basement Condition, 245000.0, 245000.0, 0.0
+923229110, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+923229110, Total Basement Area (sqft), 245000.0, 235000.0, 10000.0
+923229110, Heating Quality, 245000.0, 245000.0, 0.0
+923229110, Central Air Conditioning, 245000.0, 235000.0, 10000.0
+923229110, First Floor Area (sqft), 245000.0, 235000.0, 10000.0
+923229110, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+923229110, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+923229110, Full Bathrooms, 245000.0, 245000.0, 0.0
+923229110, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+923229110, Kitchen Quality, 245000.0, 245000.0, 0.0
+923229110, Garage Type, 245000.0, 245000.0, 0.0
+923229110, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+923229110, Garage Area (sqft), 245000.0, 245000.0, 0.0
+533253060, Neighborhood, 185000.0, 185000.0, 0.0
+533253060, Overall Quality, 185000.0, 165000.0, 20000.0
+533253060, Overall Condition, 185000.0, 185000.0, 0.0
+533253060, Year Built, 185000.0, 185000.0, 0.0
+533253060, Year Remodeled/Added, 185000.0, 185000.0, 0.0
+533253060, Exterior Quality, 185000.0, 185000.0, 0.0
+533253060, Exterior Condition, 185000.0, 185000.0, 0.0
+533253060, Basement Height Quality, 185000.0, 185000.0, 0.0
+533253060, Basement Condition, 185000.0, 185000.0, 0.0
+533253060, Basement Finished Area 1 (sqft), 185000.0, 165000.0, 20000.0
+533253060, Total Basement Area (sqft), 185000.0, 185000.0, 0.0
+533253060, Heating Quality, 185000.0, 185000.0, 0.0
+533253060, Central Air Conditioning, 185000.0, 185000.0, 0.0
+533253060, First Floor Area (sqft), 185000.0, 225000.0, 40000.0
+533253060, Above Ground Living Area (sqft), 185000.0, 185000.0, 0.0
+533253060, Basement Full Bathrooms, 185000.0, 175000.0, 10000.0
+533253060, Full Bathrooms, 185000.0, 185000.0, 0.0
+533253060, Bedrooms Above Ground, 185000.0, 185000.0, 0.0
+533253060, Kitchen Quality, 185000.0, 185000.0, 0.0
+533253060, Garage Type, 185000.0, 225000.0, 40000.0
+533253060, Garage Capacity (Cars), 185000.0, 185000.0, 0.0
+533253060, Garage Area (sqft), 185000.0, 175000.0, 10000.0
+923228150, Neighborhood, 225000.0, 225000.0, 0.0
+923228150, Overall Quality, 225000.0, 215000.0, 10000.0
+923228150, Overall Condition, 225000.0, 225000.0, 0.0
+923228150, Year Built, 225000.0, 225000.0, 0.0
+923228150, Year Remodeled/Added, 225000.0, 225000.0, 0.0
+923228150, Exterior Quality, 225000.0, 225000.0, 0.0
+923228150, Exterior Condition, 225000.0, 225000.0, 0.0
+923228150, Basement Height Quality, 225000.0, 235000.0, 10000.0
+923228150, Basement Condition, 225000.0, 225000.0, 0.0
+923228150, Basement Finished Area 1 (sqft), 225000.0, 225000.0, 0.0
+923228150, Total Basement Area (sqft), 225000.0, 225000.0, 0.0
+923228150, Heating Quality, 225000.0, 225000.0, 0.0
+923228150, Central Air Conditioning, 225000.0, 225000.0, 0.0
+923228150, First Floor Area (sqft), 225000.0, 235000.0, 10000.0
+923228150, Above Ground Living Area (sqft), 225000.0, 225000.0, 0.0
+923228150, Basement Full Bathrooms, 225000.0, 225000.0, 0.0
+923228150, Full Bathrooms, 225000.0, 225000.0, 0.0
+923228150, Bedrooms Above Ground, 225000.0, 225000.0, 0.0
+923228150, Kitchen Quality, 225000.0, 225000.0, 0.0
+923228150, Garage Type, 225000.0, 225000.0, 0.0
+923228150, Garage Capacity (Cars), 225000.0, 225000.0, 0.0
+923228150, Garage Area (sqft), 225000.0, 225000.0, 0.0
+535455060, Neighborhood, 215000.0, 185000.0, 30000.0
+535455060, Overall Quality, 215000.0, 165000.0, 50000.0
+535455060, Overall Condition, 215000.0, 185000.0, 30000.0
+535455060, Year Built, 215000.0, 185000.0, 30000.0
+535455060, Year Remodeled/Added, 215000.0, 215000.0, 0.0
+535455060, Exterior Quality, 215000.0, 215000.0, 0.0
+535455060, Exterior Condition, 215000.0, 215000.0, 0.0
+535455060, Basement Height Quality, 215000.0, 215000.0, 0.0
+535455060, Basement Condition, 215000.0, 215000.0, 0.0
+535455060, Basement Finished Area 1 (sqft), 215000.0, 215000.0, 0.0
+535455060, Total Basement Area (sqft), 215000.0, 215000.0, 0.0
+535455060, Heating Quality, 215000.0, 215000.0, 0.0
+535455060, Central Air Conditioning, 215000.0, 215000.0, 0.0
+535455060, First Floor Area (sqft), 215000.0, 215000.0, 0.0
+535455060, Above Ground Living Area (sqft), 215000.0, 215000.0, 0.0
+535455060, Basement Full Bathrooms, 215000.0, 215000.0, 0.0
+535455060, Full Bathrooms, 215000.0, 215000.0, 0.0
+535455060, Bedrooms Above Ground, 215000.0, 215000.0, 0.0
+535455060, Kitchen Quality, 215000.0, 215000.0, 0.0
+535455060, Garage Type, 215000.0, 215000.0, 0.0
+535455060, Garage Capacity (Cars), 215000.0, 215000.0, 0.0
+535455060, Garage Area (sqft), 215000.0, 215000.0, 0.0
+534275060, Neighborhood, 185000.0, 185000.0, 0.0
+534275060, Overall Quality, 185000.0, 165000.0, 20000.0
+534275060, Overall Condition, 185000.0, 175000.0, 10000.0
+534275060, Year Built, 185000.0, 185000.0, 0.0
+534275060, Year Remodeled/Added, 185000.0, 185000.0, 0.0
+534275060, Exterior Quality, 185000.0, 185000.0, 0.0
+534275060, Exterior Condition, 185000.0, 185000.0, 0.0
+534275060, Basement Height Quality, 185000.0, 215000.0, 30000.0
+534275060, Basement Condition, 185000.0, 185000.0, 0.0
+534275060, Basement Finished Area 1 (sqft), 185000.0, 165000.0, 20000.0
+534275060, Total Basement Area (sqft), 185000.0, 185000.0, 0.0
+534275060, Heating Quality, 185000.0, 185000.0, 0.0
+534275060, Central Air Conditioning, 185000.0, 185000.0, 0.0
+534275060, First Floor Area (sqft), 185000.0, 185000.0, 0.0
+534275060, Above Ground Living Area (sqft), 185000.0, 185000.0, 0.0
+534275060, Basement Full Bathrooms, 185000.0, 185000.0, 0.0
+534275060, Full Bathrooms, 185000.0, 185000.0, 0.0
+534275060, Bedrooms Above Ground, 185000.0, 185000.0, 0.0
+534275060, Kitchen Quality, 185000.0, 185000.0, 0.0
+534275060, Garage Type, 185000.0, 185000.0, 0.0
+534275060, Garage Capacity (Cars), 185000.0, 185000.0, 0.0
+534275060, Garage Area (sqft), 185000.0, 185000.0, 0.0
+534201040, Neighborhood, 215000.0, 225000.0, 10000.0
+534201040, Overall Quality, 215000.0, 182000.0, 33000.0
+534201040, Overall Condition, 215000.0, 215000.0, 0.0
+534201040, Year Built, 215000.0, 238000.0, 23000.0
+534201040, Year Remodeled/Added, 215000.0, 235000.0, 20000.0
+534201040, Exterior Quality, 215000.0, 215000.0, 0.0
+534201040, Exterior Condition, 215000.0, 215000.0, 0.0
+534201040, Basement Height Quality, 215000.0, 215000.0, 0.0
+534201040, Basement Condition, 215000.0, 215000.0, 0.0
+534201040, Basement Finished Area 1 (sqft), 215000.0, 215000.0, 0.0
+534201040, Total Basement Area (sqft), 215000.0, 227000.0, 12000.0
+534201040, Heating Quality, 215000.0, 215000.0, 0.0
+534201040, Central Air Conditioning, 215000.0, 215000.0, 0.0
+534201040, First Floor Area (sqft), 215000.0, 218000.0, 3000.0
+534201040, Above Ground Living Area (sqft), 215000.0, 222000.0, 7000.0
+534201040, Basement Full Bathrooms, 215000.0, 215000.0, 0.0
+534201040, Full Bathrooms, 215000.0, 215000.0, 0.0
+534201040, Bedrooms Above Ground, 215000.0, 215000.0, 0.0
+534201040, Kitchen Quality, 215000.0, 215000.0, 0.0
+534201040, Garage Type, 215000.0, 215000.0, 0.0
+534201040, Garage Capacity (Cars), 215000.0, 215000.0, 0.0
+534201040, Garage Area (sqft), 215000.0, 222000.0, 7000.0
+906226060, Neighborhood, 265000.0, 265000.0, 0.0
+906226060, Overall Quality, 265000.0, 245000.0, 20000.0
+906226060, Overall Condition, 265000.0, 265000.0, 0.0
+906226060, Year Built, 265000.0, 265000.0, 0.0
+906226060, Year Remodeled/Added, 265000.0, 255000.0, 10000.0
+906226060, Exterior Quality, 265000.0, 265000.0, 0.0
+906226060, Exterior Condition, 265000.0, 265000.0, 0.0
+906226060, Basement Height Quality, 265000.0, 265000.0, 0.0
+906226060, Basement Condition, 265000.0, 265000.0, 0.0
+906226060, Basement Finished Area 1 (sqft), 265000.0, 265000.0, 0.0
+906226060, Total Basement Area (sqft), 265000.0, 265000.0, 0.0
+906226060, Heating Quality, 265000.0, 265000.0, 0.0
+906226060, Central Air Conditioning, 265000.0, 265000.0, 0.0
+906226060, First Floor Area (sqft), 265000.0, 285000.0, 20000.0
+906226060, Above Ground Living Area (sqft), 265000.0, 265000.0, 0.0
+906226060, Basement Full Bathrooms, 265000.0, 265000.0, 0.0
+906226060, Full Bathrooms, 265000.0, 265000.0, 0.0
+906226060, Bedrooms Above Ground, 265000.0, 265000.0, 0.0
+906226060, Kitchen Quality, 265000.0, 265000.0, 0.0
+906226060, Garage Type, 265000.0, 265000.0, 0.0
+906226060, Garage Capacity (Cars), 265000.0, 265000.0, 0.0
+906226060, Garage Area (sqft), 265000.0, 265000.0, 0.0
+908226120, Neighborhood, 225000.0, 215000.0, 10000.0
+908226120, Overall Quality, 225000.0, 185000.0, 40000.0
+908226120, Overall Condition, 225000.0, 225000.0, 0.0
+908226120, Year Built, 225000.0, 225000.0, 0.0
+908226120, Year Remodeled/Added, 225000.0, 215000.0, 10000.0
+908226120, Exterior Quality, 225000.0, 225000.0, 0.0
+908226120, Exterior Condition, 225000.0, 225000.0, 0.0
+908226120, Basement Height Quality, 225000.0, 225000.0, 0.0
+908226120, Basement Condition, 225000.0, 225000.0, 0.0
+908226120, Basement Finished Area 1 (sqft), 225000.0, 225000.0, 0.0
+908226120, Total Basement Area (sqft), 225000.0, 225000.0, 0.0
+908226120, Heating Quality, 225000.0, 225000.0, 0.0
+908226120, Central Air Conditioning, 225000.0, 225000.0, 0.0
+908226120, First Floor Area (sqft), 225000.0, 225000.0, 0.0
+908226120, Above Ground Living Area (sqft), 225000.0, 215000.0, 10000.0
+908226120, Basement Full Bathrooms, 225000.0, 225000.0, 0.0
+908226120, Full Bathrooms, 225000.0, 215000.0, 10000.0
+908226120, Bedrooms Above Ground, 225000.0, 215000.0, 10000.0
+908226120, Kitchen Quality, 225000.0, 215000.0, 10000.0
+908226120, Garage Type, 225000.0, 225000.0, 0.0
+908226120, Garage Capacity (Cars), 225000.0, 225000.0, 0.0
+908226120, Garage Area (sqft), 225000.0, 225000.0, 0.0
+528166090, Neighborhood, 285000.0, 265000.0, 20000.0
+528166090, Overall Quality, 285000.0, 245000.0, 40000.0
+528166090, Overall Condition, 285000.0, 285000.0, 0.0
+528166090, Year Built, 285000.0, 288000.0, 3000.0
+528166090, Year Remodeled/Added, 285000.0, 288000.0, 3000.0
+528166090, Exterior Quality, 285000.0, 265000.0, 20000.0
+528166090, Exterior Condition, 285000.0, 265000.0, 20000.0
+528166090, Basement Height Quality, 285000.0, 265000.0, 20000.0
+528166090, Basement Condition, 285000.0, 285000.0, 0.0
+528166090, Basement Finished Area 1 (sqft), 285000.0, 265000.0, 20000.0
+528166090, Total Basement Area (sqft), 285000.0, 288000.0, 3000.0
+528166090, Heating Quality, 285000.0, 265000.0, 20000.0
+528166090, Central Air Conditioning, 285000.0, 265000.0, 20000.0
+528166090, First Floor Area (sqft), 285000.0, 288000.0, 3000.0
+528166090, Above Ground Living Area (sqft), 285000.0, 268000.0, 17000.0
+528166090, Basement Full Bathrooms, 285000.0, 288000.0, 3000.0
+528166090, Full Bathrooms, 285000.0, 285000.0, 0.0
+528166090, Bedrooms Above Ground, 285000.0, 285000.0, 0.0
+528166090, Kitchen Quality, 285000.0, 265000.0, 20000.0
+528166090, Garage Type, 285000.0, 288000.0, 3000.0
+528166090, Garage Capacity (Cars), 285000.0, 265000.0, 20000.0
+528166090, Garage Area (sqft), 285000.0, 265000.0, 20000.0
+528110090, Neighborhood, 365000.0, 355000.0, 10000.0
+528110090, Overall Quality, 365000.0, 345000.0, 20000.0
+528110090, Overall Condition, 365000.0, 365000.0, 0.0
+528110090, Year Built, 365000.0, 355000.0, 10000.0
+528110090, Year Remodeled/Added, 365000.0, 355000.0, 10000.0
+528110090, Exterior Quality, 365000.0, 355000.0, 10000.0
+528110090, Exterior Condition, 365000.0, 355000.0, 10000.0
+528110090, Basement Height Quality, 365000.0, 355000.0, 10000.0
+528110090, Basement Condition, 365000.0, 355000.0, 10000.0
+528110090, Basement Finished Area 1 (sqft), 365000.0, 365000.0, 0.0
+528110090, Total Basement Area (sqft), 365000.0, 365000.0, 0.0
+528110090, Heating Quality, 365000.0, 355000.0, 10000.0
+528110090, Central Air Conditioning, 365000.0, 355000.0, 10000.0
+528110090, First Floor Area (sqft), 365000.0, 385000.0, 20000.0
+528110090, Above Ground Living Area (sqft), 365000.0, 365000.0, 0.0
+528110090, Basement Full Bathrooms, 365000.0, 365000.0, 0.0
+528110090, Full Bathrooms, 365000.0, 355000.0, 10000.0
+528110090, Bedrooms Above Ground, 365000.0, 365000.0, 0.0
+528110090, Kitchen Quality, 365000.0, 355000.0, 10000.0
+528110090, Garage Type, 365000.0, 365000.0, 0.0
+528110090, Garage Capacity (Cars), 365000.0, 355000.0, 10000.0
+528110090, Garage Area (sqft), 365000.0, 355000.0, 10000.0
+528327060, Neighborhood, 285000.0, 285000.0, 0.0
+528327060, Overall Quality, 285000.0, 265000.0, 20000.0
+528327060, Overall Condition, 285000.0, 285000.0, 0.0
+528327060, Year Built, 285000.0, 285000.0, 0.0
+528327060, Year Remodeled/Added, 285000.0, 285000.0, 0.0
+528327060, Exterior Quality, 285000.0, 285000.0, 0.0
+528327060, Exterior Condition, 285000.0, 285000.0, 0.0
+528327060, Basement Height Quality, 285000.0, 285000.0, 0.0
+528327060, Basement Condition, 285000.0, 285000.0, 0.0
+528327060, Basement Finished Area 1 (sqft), 285000.0, 285000.0, 0.0
+528327060, Total Basement Area (sqft), 285000.0, 288000.0, 3000.0
+528327060, Heating Quality, 285000.0, 285000.0, 0.0
+528327060, Central Air Conditioning, 285000.0, 285000.0, 0.0
+528327060, First Floor Area (sqft), 285000.0, 285000.0, 0.0
+528327060, Above Ground Living Area (sqft), 285000.0, 285000.0, 0.0
+528327060, Basement Full Bathrooms, 285000.0, 285000.0, 0.0
+528327060, Full Bathrooms, 285000.0, 285000.0, 0.0
+528327060, Bedrooms Above Ground, 285000.0, 285000.0, 0.0
+528327060, Kitchen Quality, 285000.0, 285000.0, 0.0
+528327060, Garage Type, 285000.0, 285000.0, 0.0
+528327060, Garage Capacity (Cars), 285000.0, 285000.0, 0.0
+528327060, Garage Area (sqft), 285000.0, 285000.0, 0.0
+535425050, Neighborhood, 235000.0, 235000.0, 0.0
+535425050, Overall Quality, 235000.0, 215000.0, 20000.0
+535425050, Overall Condition, 235000.0, 235000.0, 0.0
+535425050, Year Built, 235000.0, 235000.0, 0.0
+535425050, Year Remodeled/Added, 235000.0, 235000.0, 0.0
+535425050, Exterior Quality, 235000.0, 235000.0, 0.0
+535425050, Exterior Condition, 235000.0, 235000.0, 0.0
+535425050, Basement Height Quality, 235000.0, 235000.0, 0.0
+535425050, Basement Condition, 235000.0, 235000.0, 0.0
+535425050, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+535425050, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+535425050, Heating Quality, 235000.0, 235000.0, 0.0
+535425050, Central Air Conditioning, 235000.0, 235000.0, 0.0
+535425050, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+535425050, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+535425050, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+535425050, Full Bathrooms, 235000.0, 225000.0, 10000.0
+535425050, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+535425050, Kitchen Quality, 235000.0, 235000.0, 0.0
+535425050, Garage Type, 235000.0, 235000.0, 0.0
+535425050, Garage Capacity (Cars), 235000.0, 225000.0, 10000.0
+535425050, Garage Area (sqft), 235000.0, 227000.0, 8000.0
+905103030, Neighborhood, 245000.0, 235000.0, 10000.0
+905103030, Overall Quality, 245000.0, 215000.0, 30000.0
+905103030, Overall Condition, 245000.0, 235000.0, 10000.0
+905103030, Year Built, 245000.0, 245000.0, 0.0
+905103030, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+905103030, Exterior Quality, 245000.0, 235000.0, 10000.0
+905103030, Exterior Condition, 245000.0, 235000.0, 10000.0
+905103030, Basement Height Quality, 245000.0, 235000.0, 10000.0
+905103030, Basement Condition, 245000.0, 235000.0, 10000.0
+905103030, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+905103030, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+905103030, Heating Quality, 245000.0, 235000.0, 10000.0
+905103030, Central Air Conditioning, 245000.0, 235000.0, 10000.0
+905103030, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+905103030, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+905103030, Basement Full Bathrooms, 245000.0, 235000.0, 10000.0
+905103030, Full Bathrooms, 245000.0, 245000.0, 0.0
+905103030, Bedrooms Above Ground, 245000.0, 235000.0, 10000.0
+905103030, Kitchen Quality, 245000.0, 235000.0, 10000.0
+905103030, Garage Type, 245000.0, 245000.0, 0.0
+905103030, Garage Capacity (Cars), 245000.0, 235000.0, 10000.0
+905103030, Garage Area (sqft), 245000.0, 235000.0, 10000.0
+902325160, Neighborhood, 225000.0, 225000.0, 0.0
+902325160, Overall Quality, 225000.0, 215000.0, 10000.0
+902325160, Overall Condition, 225000.0, 225000.0, 0.0
+902325160, Year Built, 225000.0, 225000.0, 0.0
+902325160, Year Remodeled/Added, 225000.0, 235000.0, 10000.0
+902325160, Exterior Quality, 225000.0, 225000.0, 0.0
+902325160, Exterior Condition, 225000.0, 225000.0, 0.0
+902325160, Basement Height Quality, 225000.0, 225000.0, 0.0
+902325160, Basement Condition, 225000.0, 225000.0, 0.0
+902325160, Basement Finished Area 1 (sqft), 225000.0, 225000.0, 0.0
+902325160, Total Basement Area (sqft), 225000.0, 235000.0, 10000.0
+902325160, Heating Quality, 225000.0, 225000.0, 0.0
+902325160, Central Air Conditioning, 225000.0, 225000.0, 0.0
+902325160, First Floor Area (sqft), 225000.0, 235000.0, 10000.0
+902325160, Above Ground Living Area (sqft), 225000.0, 225000.0, 0.0
+902325160, Basement Full Bathrooms, 225000.0, 225000.0, 0.0
+902325160, Full Bathrooms, 225000.0, 225000.0, 0.0
+902325160, Bedrooms Above Ground, 225000.0, 225000.0, 0.0
+902325160, Kitchen Quality, 225000.0, 225000.0, 0.0
+902325160, Garage Type, 225000.0, 225000.0, 0.0
+902325160, Garage Capacity (Cars), 225000.0, 225000.0, 0.0
+902325160, Garage Area (sqft), 225000.0, 225000.0, 0.0
+907202080, Neighborhood, 235000.0, 235000.0, 0.0
+907202080, Overall Quality, 235000.0, 185000.0, 50000.0
+907202080, Overall Condition, 235000.0, 225000.0, 10000.0
+907202080, Year Built, 235000.0, 235000.0, 0.0
+907202080, Year Remodeled/Added, 235000.0, 225000.0, 10000.0
+907202080, Exterior Quality, 235000.0, 235000.0, 0.0
+907202080, Exterior Condition, 235000.0, 235000.0, 0.0
+907202080, Basement Height Quality, 235000.0, 235000.0, 0.0
+907202080, Basement Condition, 235000.0, 235000.0, 0.0
+907202080, Basement Finished Area 1 (sqft), 235000.0, 225000.0, 10000.0
+907202080, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+907202080, Heating Quality, 235000.0, 235000.0, 0.0
+907202080, Central Air Conditioning, 235000.0, 235000.0, 0.0
+907202080, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+907202080, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+907202080, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+907202080, Full Bathrooms, 235000.0, 235000.0, 0.0
+907202080, Bedrooms Above Ground, 235000.0, 225000.0, 10000.0
+907202080, Kitchen Quality, 235000.0, 235000.0, 0.0
+907202080, Garage Type, 235000.0, 235000.0, 0.0
+907202080, Garage Capacity (Cars), 235000.0, 235000.0, 0.0
+907202080, Garage Area (sqft), 235000.0, 235000.0, 0.0
+528344060, Neighborhood, 245000.0, 245000.0, 0.0
+528344060, Overall Quality, 245000.0, 235000.0, 10000.0
+528344060, Overall Condition, 245000.0, 245000.0, 0.0
+528344060, Year Built, 245000.0, 265000.0, 20000.0
+528344060, Year Remodeled/Added, 245000.0, 265000.0, 20000.0
+528344060, Exterior Quality, 245000.0, 245000.0, 0.0
+528344060, Exterior Condition, 245000.0, 245000.0, 0.0
+528344060, Basement Height Quality, 245000.0, 265000.0, 20000.0
+528344060, Basement Condition, 245000.0, 255000.0, 10000.0
+528344060, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+528344060, Total Basement Area (sqft), 245000.0, 265000.0, 20000.0
+528344060, Heating Quality, 245000.0, 245000.0, 0.0
+528344060, Central Air Conditioning, 245000.0, 245000.0, 0.0
+528344060, First Floor Area (sqft), 245000.0, 265000.0, 20000.0
+528344060, Above Ground Living Area (sqft), 245000.0, 265000.0, 20000.0
+528344060, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+528344060, Full Bathrooms, 245000.0, 245000.0, 0.0
+528344060, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+528344060, Kitchen Quality, 245000.0, 245000.0, 0.0
+528344060, Garage Type, 245000.0, 245000.0, 0.0
+528344060, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+528344060, Garage Area (sqft), 245000.0, 265000.0, 20000.0
+902477120, Neighborhood, 165000.0, 155000.0, 10000.0
+902477120, Overall Quality, 165000.0, 135000.0, 30000.0
+902477120, Overall Condition, 165000.0, 155000.0, 10000.0
+902477120, Year Built, 165000.0, 145000.0, 20000.0
+902477120, Year Remodeled/Added, 165000.0, 165000.0, 0.0
+902477120, Exterior Quality, 165000.0, 145000.0, 20000.0
+902477120, Exterior Condition, 165000.0, 145000.0, 20000.0
+902477120, Basement Height Quality, 165000.0, 165000.0, 0.0
+902477120, Basement Condition, 165000.0, 165000.0, 0.0
+902477120, Basement Finished Area 1 (sqft), 165000.0, 145000.0, 20000.0
+902477120, Total Basement Area (sqft), 165000.0, 145000.0, 20000.0
+902477120, Heating Quality, 165000.0, 145000.0, 20000.0
+902477120, Central Air Conditioning, 165000.0, 165000.0, 0.0
+902477120, First Floor Area (sqft), 165000.0, 145000.0, 20000.0
+902477120, Above Ground Living Area (sqft), 165000.0, 145000.0, 20000.0
+902477120, Basement Full Bathrooms, 165000.0, 165000.0, 0.0
+902477120, Full Bathrooms, 165000.0, 145000.0, 20000.0
+902477120, Bedrooms Above Ground, 165000.0, 145000.0, 20000.0
+902477120, Kitchen Quality, 165000.0, 155000.0, 10000.0
+902477120, Garage Type, 165000.0, 165000.0, 0.0
+902477120, Garage Capacity (Cars), 165000.0, 165000.0, 0.0
+902477120, Garage Area (sqft), 165000.0, 165000.0, 0.0
+527165010, Neighborhood, 245000.0, 245000.0, 0.0
+527165010, Overall Quality, 245000.0, 235000.0, 10000.0
+527165010, Overall Condition, 245000.0, 245000.0, 0.0
+527165010, Year Built, 245000.0, 245000.0, 0.0
+527165010, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+527165010, Exterior Quality, 245000.0, 245000.0, 0.0
+527165010, Exterior Condition, 245000.0, 245000.0, 0.0
+527165010, Basement Height Quality, 245000.0, 245000.0, 0.0
+527165010, Basement Condition, 245000.0, 245000.0, 0.0
+527165010, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+527165010, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+527165010, Heating Quality, 245000.0, 245000.0, 0.0
+527165010, Central Air Conditioning, 245000.0, 245000.0, 0.0
+527165010, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+527165010, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+527165010, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+527165010, Full Bathrooms, 245000.0, 245000.0, 0.0
+527165010, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+527165010, Kitchen Quality, 245000.0, 245000.0, 0.0
+527165010, Garage Type, 245000.0, 245000.0, 0.0
+527165010, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+527165010, Garage Area (sqft), 245000.0, 245000.0, 0.0
+528180110, Neighborhood, 285000.0, 285000.0, 0.0
+528180110, Overall Quality, 285000.0, 265000.0, 20000.0
+528180110, Overall Condition, 285000.0, 285000.0, 0.0
+528180110, Year Built, 285000.0, 285000.0, 0.0
+528180110, Year Remodeled/Added, 285000.0, 285000.0, 0.0
+528180110, Exterior Quality, 285000.0, 285000.0, 0.0
+528180110, Exterior Condition, 285000.0, 285000.0, 0.0
+528180110, Basement Height Quality, 285000.0, 285000.0, 0.0
+528180110, Basement Condition, 285000.0, 285000.0, 0.0
+528180110, Basement Finished Area 1 (sqft), 285000.0, 285000.0, 0.0
+528180110, Total Basement Area (sqft), 285000.0, 285000.0, 0.0
+528180110, Heating Quality, 285000.0, 285000.0, 0.0
+528180110, Central Air Conditioning, 285000.0, 285000.0, 0.0
+528180110, First Floor Area (sqft), 285000.0, 285000.0, 0.0
+528180110, Above Ground Living Area (sqft), 285000.0, 285000.0, 0.0
+528180110, Basement Full Bathrooms, 285000.0, 285000.0, 0.0
+528180110, Full Bathrooms, 285000.0, 285000.0, 0.0
+528180110, Bedrooms Above Ground, 285000.0, 285000.0, 0.0
+528180110, Kitchen Quality, 285000.0, 285000.0, 0.0
+528180110, Garage Type, 285000.0, 285000.0, 0.0
+528180110, Garage Capacity (Cars), 285000.0, 285000.0, 0.0
+528180110, Garage Area (sqft), 285000.0, 265000.0, 20000.0
+533120030, Neighborhood, 285000.0, 285000.0, 0.0
+533120030, Overall Quality, 285000.0, 265000.0, 20000.0
+533120030, Overall Condition, 285000.0, 285000.0, 0.0
+533120030, Year Built, 285000.0, 285000.0, 0.0
+533120030, Year Remodeled/Added, 285000.0, 285000.0, 0.0
+533120030, Exterior Quality, 285000.0, 285000.0, 0.0
+533120030, Exterior Condition, 285000.0, 285000.0, 0.0
+533120030, Basement Height Quality, 285000.0, 285000.0, 0.0
+533120030, Basement Condition, 285000.0, 285000.0, 0.0
+533120030, Basement Finished Area 1 (sqft), 285000.0, 285000.0, 0.0
+533120030, Total Basement Area (sqft), 285000.0, 285000.0, 0.0
+533120030, Heating Quality, 285000.0, 285000.0, 0.0
+533120030, Central Air Conditioning, 285000.0, 285000.0, 0.0
+533120030, First Floor Area (sqft), 285000.0, 285000.0, 0.0
+533120030, Above Ground Living Area (sqft), 285000.0, 285000.0, 0.0
+533120030, Basement Full Bathrooms, 285000.0, 285000.0, 0.0
+533120030, Full Bathrooms, 285000.0, 285000.0, 0.0
+533120030, Bedrooms Above Ground, 285000.0, 285000.0, 0.0
+533120030, Kitchen Quality, 285000.0, 285000.0, 0.0
+533120030, Garage Type, 285000.0, 285000.0, 0.0
+533120030, Garage Capacity (Cars), 285000.0, 285000.0, 0.0
+533120030, Garage Area (sqft), 285000.0, 285000.0, 0.0
+905453040, Neighborhood, 235000.0, 235000.0, 0.0
+905453040, Overall Quality, 235000.0, 225000.0, 10000.0
+905453040, Overall Condition, 235000.0, 235000.0, 0.0
+905453040, Year Built, 235000.0, 245000.0, 10000.0
+905453040, Year Remodeled/Added, 235000.0, 245000.0, 10000.0
+905453040, Exterior Quality, 235000.0, 235000.0, 0.0
+905453040, Exterior Condition, 235000.0, 235000.0, 0.0
+905453040, Basement Height Quality, 235000.0, 235000.0, 0.0
+905453040, Basement Condition, 235000.0, 235000.0, 0.0
+905453040, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+905453040, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+905453040, Heating Quality, 235000.0, 235000.0, 0.0
+905453040, Central Air Conditioning, 235000.0, 235000.0, 0.0
+905453040, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+905453040, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+905453040, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+905453040, Full Bathrooms, 235000.0, 235000.0, 0.0
+905453040, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+905453040, Kitchen Quality, 235000.0, 235000.0, 0.0
+905453040, Garage Type, 235000.0, 235000.0, 0.0
+905453040, Garage Capacity (Cars), 235000.0, 235000.0, 0.0
+905453040, Garage Area (sqft), 235000.0, 235000.0, 0.0
+909277070, Neighborhood, 215000.0, 215000.0, 0.0
+909277070, Overall Quality, 215000.0, 185000.0, 30000.0
+909277070, Overall Condition, 215000.0, 215000.0, 0.0
+909277070, Year Built, 215000.0, 215000.0, 0.0
+909277070, Year Remodeled/Added, 215000.0, 235000.0, 20000.0
+909277070, Exterior Quality, 215000.0, 215000.0, 0.0
+909277070, Exterior Condition, 215000.0, 215000.0, 0.0
+909277070, Basement Height Quality, 215000.0, 215000.0, 0.0
+909277070, Basement Condition, 215000.0, 215000.0, 0.0
+909277070, Basement Finished Area 1 (sqft), 215000.0, 215000.0, 0.0
+909277070, Total Basement Area (sqft), 215000.0, 215000.0, 0.0
+909277070, Heating Quality, 215000.0, 215000.0, 0.0
+909277070, Central Air Conditioning, 215000.0, 215000.0, 0.0
+909277070, First Floor Area (sqft), 215000.0, 225000.0, 10000.0
+909277070, Above Ground Living Area (sqft), 215000.0, 215000.0, 0.0
+909277070, Basement Full Bathrooms, 215000.0, 215000.0, 0.0
+909277070, Full Bathrooms, 215000.0, 215000.0, 0.0
+909277070, Bedrooms Above Ground, 215000.0, 215000.0, 0.0
+909277070, Kitchen Quality, 215000.0, 215000.0, 0.0
+909277070, Garage Type, 215000.0, 215000.0, 0.0
+909277070, Garage Capacity (Cars), 215000.0, 215000.0, 0.0
+909277070, Garage Area (sqft), 215000.0, 215000.0, 0.0
+528427010, Neighborhood, 285000.0, 265000.0, 20000.0
+528427010, Overall Quality, 285000.0, 245000.0, 40000.0
+528427010, Overall Condition, 285000.0, 265000.0, 20000.0
+528427010, Year Built, 285000.0, 285000.0, 0.0
+528427010, Year Remodeled/Added, 285000.0, 285000.0, 0.0
+528427010, Exterior Quality, 285000.0, 265000.0, 20000.0
+528427010, Exterior Condition, 285000.0, 285000.0, 0.0
+528427010, Basement Height Quality, 285000.0, 285000.0, 0.0
+528427010, Basement Condition, 285000.0, 265000.0, 20000.0
+528427010, Basement Finished Area 1 (sqft), 285000.0, 285000.0, 0.0
+528427010, Total Basement Area (sqft), 285000.0, 265000.0, 20000.0
+528427010, Heating Quality, 285000.0, 265000.0, 20000.0
+528427010, Central Air Conditioning, 285000.0, 265000.0, 20000.0
+528427010, First Floor Area (sqft), 285000.0, 285000.0, 0.0
+528427010, Above Ground Living Area (sqft), 285000.0, 265000.0, 20000.0
+528427010, Basement Full Bathrooms, 285000.0, 285000.0, 0.0
+528427010, Full Bathrooms, 285000.0, 265000.0, 20000.0
+528427010, Bedrooms Above Ground, 285000.0, 265000.0, 20000.0
+528427010, Kitchen Quality, 285000.0, 265000.0, 20000.0
+528427010, Garage Type, 285000.0, 265000.0, 20000.0
+528427010, Garage Capacity (Cars), 285000.0, 265000.0, 20000.0
+528427010, Garage Area (sqft), 285000.0, 265000.0, 20000.0
+535382150, Neighborhood, 185000.0, 185000.0, 0.0
+535382150, Overall Quality, 185000.0, 165000.0, 20000.0
+535382150, Overall Condition, 185000.0, 185000.0, 0.0
+535382150, Year Built, 185000.0, 185000.0, 0.0
+535382150, Year Remodeled/Added, 185000.0, 185000.0, 0.0
+535382150, Exterior Quality, 185000.0, 185000.0, 0.0
+535382150, Exterior Condition, 185000.0, 185000.0, 0.0
+535382150, Basement Height Quality, 185000.0, 185000.0, 0.0
+535382150, Basement Condition, 185000.0, 185000.0, 0.0
+535382150, Basement Finished Area 1 (sqft), 185000.0, 185000.0, 0.0
+535382150, Total Basement Area (sqft), 185000.0, 185000.0, 0.0
+535382150, Heating Quality, 185000.0, 185000.0, 0.0
+535382150, Central Air Conditioning, 185000.0, 185000.0, 0.0
+535382150, First Floor Area (sqft), 185000.0, 185000.0, 0.0
+535382150, Above Ground Living Area (sqft), 185000.0, 185000.0, 0.0
+535382150, Basement Full Bathrooms, 185000.0, 185000.0, 0.0
+535382150, Full Bathrooms, 185000.0, 185000.0, 0.0
+535382150, Bedrooms Above Ground, 185000.0, 185000.0, 0.0
+535382150, Kitchen Quality, 185000.0, 185000.0, 0.0
+535382150, Garage Type, 185000.0, 185000.0, 0.0
+535382150, Garage Capacity (Cars), 185000.0, 185000.0, 0.0
+535382150, Garage Area (sqft), 185000.0, 185000.0, 0.0
+905351045, Neighborhood, 235000.0, 225000.0, 10000.0
+905351045, Overall Quality, 235000.0, 185000.0, 50000.0
+905351045, Overall Condition, 235000.0, 225000.0, 10000.0
+905351045, Year Built, 235000.0, 225000.0, 10000.0
+905351045, Year Remodeled/Added, 235000.0, 235000.0, 0.0
+905351045, Exterior Quality, 235000.0, 225000.0, 10000.0
+905351045, Exterior Condition, 235000.0, 225000.0, 10000.0
+905351045, Basement Height Quality, 235000.0, 225000.0, 10000.0
+905351045, Basement Condition, 235000.0, 225000.0, 10000.0
+905351045, Basement Finished Area 1 (sqft), 235000.0, 225000.0, 10000.0
+905351045, Total Basement Area (sqft), 235000.0, 225000.0, 10000.0
+905351045, Heating Quality, 235000.0, 225000.0, 10000.0
+905351045, Central Air Conditioning, 235000.0, 225000.0, 10000.0
+905351045, First Floor Area (sqft), 235000.0, 225000.0, 10000.0
+905351045, Above Ground Living Area (sqft), 235000.0, 225000.0, 10000.0
+905351045, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+905351045, Full Bathrooms, 235000.0, 225000.0, 10000.0
+905351045, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+905351045, Kitchen Quality, 235000.0, 235000.0, 0.0
+905351045, Garage Type, 235000.0, 235000.0, 0.0
+905351045, Garage Capacity (Cars), 235000.0, 225000.0, 10000.0
+905351045, Garage Area (sqft), 235000.0, 225000.0, 10000.0
+902405100, Neighborhood, 265000.0, 245000.0, 20000.0
+902405100, Overall Quality, 265000.0, 245000.0, 20000.0
+902405100, Overall Condition, 265000.0, 265000.0, 0.0
+902405100, Year Built, 265000.0, 248000.0, 17000.0
+902405100, Year Remodeled/Added, 265000.0, 245000.0, 20000.0
+902405100, Exterior Quality, 265000.0, 265000.0, 0.0
+902405100, Exterior Condition, 265000.0, 265000.0, 0.0
+902405100, Basement Height Quality, 265000.0, 265000.0, 0.0
+902405100, Basement Condition, 265000.0, 265000.0, 0.0
+902405100, Basement Finished Area 1 (sqft), 265000.0, 245000.0, 20000.0
+902405100, Total Basement Area (sqft), 265000.0, 245000.0, 20000.0
+902405100, Heating Quality, 265000.0, 265000.0, 0.0
+902405100, Central Air Conditioning, 265000.0, 248000.0, 17000.0
+902405100, First Floor Area (sqft), 265000.0, 265000.0, 0.0
+902405100, Above Ground Living Area (sqft), 265000.0, 265000.0, 0.0
+902405100, Basement Full Bathrooms, 265000.0, 265000.0, 0.0
+902405100, Full Bathrooms, 265000.0, 265000.0, 0.0
+902405100, Bedrooms Above Ground, 265000.0, 265000.0, 0.0
+902405100, Kitchen Quality, 265000.0, 265000.0, 0.0
+902405100, Garage Type, 265000.0, 265000.0, 0.0
+902405100, Garage Capacity (Cars), 265000.0, 265000.0, 0.0
+902405100, Garage Area (sqft), 265000.0, 265000.0, 0.0
+535425050, Neighborhood, 235000.0, 235000.0, 0.0
+535425050, Overall Quality, 235000.0, 215000.0, 20000.0
+535425050, Overall Condition, 235000.0, 235000.0, 0.0
+535425050, Year Built, 235000.0, 235000.0, 0.0
+535425050, Year Remodeled/Added, 235000.0, 235000.0, 0.0
+535425050, Exterior Quality, 235000.0, 235000.0, 0.0
+535425050, Exterior Condition, 235000.0, 235000.0, 0.0
+535425050, Basement Height Quality, 235000.0, 235000.0, 0.0
+535425050, Basement Condition, 235000.0, 235000.0, 0.0
+535425050, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+535425050, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+535425050, Heating Quality, 235000.0, 235000.0, 0.0
+535425050, Central Air Conditioning, 235000.0, 235000.0, 0.0
+535425050, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+535425050, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+535425050, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+535425050, Full Bathrooms, 235000.0, 225000.0, 10000.0
+535425050, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+535425050, Kitchen Quality, 235000.0, 235000.0, 0.0
+535425050, Garage Type, 235000.0, 235000.0, 0.0
+535425050, Garage Capacity (Cars), 235000.0, 225000.0, 10000.0
+535425050, Garage Area (sqft), 235000.0, 227000.0, 8000.0
+905103030, Neighborhood, 245000.0, 235000.0, 10000.0
+905103030, Overall Quality, 245000.0, 215000.0, 30000.0
+905103030, Overall Condition, 245000.0, 235000.0, 10000.0
+905103030, Year Built, 245000.0, 245000.0, 0.0
+905103030, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+905103030, Exterior Quality, 245000.0, 235000.0, 10000.0
+905103030, Exterior Condition, 245000.0, 235000.0, 10000.0
+905103030, Basement Height Quality, 245000.0, 235000.0, 10000.0
+905103030, Basement Condition, 245000.0, 235000.0, 10000.0
+905103030, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+905103030, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+905103030, Heating Quality, 245000.0, 235000.0, 10000.0
+905103030, Central Air Conditioning, 245000.0, 235000.0, 10000.0
+905103030, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+905103030, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+905103030, Basement Full Bathrooms, 245000.0, 235000.0, 10000.0
+905103030, Full Bathrooms, 245000.0, 245000.0, 0.0
+905103030, Bedrooms Above Ground, 245000.0, 235000.0, 10000.0
+905103030, Kitchen Quality, 245000.0, 235000.0, 10000.0
+905103030, Garage Type, 245000.0, 245000.0, 0.0
+905103030, Garage Capacity (Cars), 245000.0, 235000.0, 10000.0
+905103030, Garage Area (sqft), 245000.0, 235000.0, 10000.0
+902325160, Neighborhood, 225000.0, 225000.0, 0.0
+902325160, Overall Quality, 225000.0, 215000.0, 10000.0
+902325160, Overall Condition, 225000.0, 225000.0, 0.0
+902325160, Year Built, 225000.0, 225000.0, 0.0
+902325160, Year Remodeled/Added, 225000.0, 235000.0, 10000.0
+902325160, Exterior Quality, 225000.0, 225000.0, 0.0
+902325160, Exterior Condition, 225000.0, 225000.0, 0.0
+902325160, Basement Height Quality, 225000.0, 225000.0, 0.0
+902325160, Basement Condition, 225000.0, 225000.0, 0.0
+902325160, Basement Finished Area 1 (sqft), 225000.0, 225000.0, 0.0
+902325160, Total Basement Area (sqft), 225000.0, 235000.0, 10000.0
+902325160, Heating Quality, 225000.0, 225000.0, 0.0
+902325160, Central Air Conditioning, 225000.0, 225000.0, 0.0
+902325160, First Floor Area (sqft), 225000.0, 235000.0, 10000.0
+902325160, Above Ground Living Area (sqft), 225000.0, 225000.0, 0.0
+902325160, Basement Full Bathrooms, 225000.0, 225000.0, 0.0
+902325160, Full Bathrooms, 225000.0, 225000.0, 0.0
+902325160, Bedrooms Above Ground, 225000.0, 225000.0, 0.0
+902325160, Kitchen Quality, 225000.0, 225000.0, 0.0
+902325160, Garage Type, 225000.0, 225000.0, 0.0
+902325160, Garage Capacity (Cars), 225000.0, 225000.0, 0.0
+902325160, Garage Area (sqft), 225000.0, 225000.0, 0.0
+907202080, Neighborhood, 235000.0, 235000.0, 0.0
+907202080, Overall Quality, 235000.0, 185000.0, 50000.0
+907202080, Overall Condition, 235000.0, 225000.0, 10000.0
+907202080, Year Built, 235000.0, 235000.0, 0.0
+907202080, Year Remodeled/Added, 235000.0, 225000.0, 10000.0
+907202080, Exterior Quality, 235000.0, 235000.0, 0.0
+907202080, Exterior Condition, 235000.0, 235000.0, 0.0
+907202080, Basement Height Quality, 235000.0, 235000.0, 0.0
+907202080, Basement Condition, 235000.0, 235000.0, 0.0
+907202080, Basement Finished Area 1 (sqft), 235000.0, 225000.0, 10000.0
+907202080, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+907202080, Heating Quality, 235000.0, 235000.0, 0.0
+907202080, Central Air Conditioning, 235000.0, 235000.0, 0.0
+907202080, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+907202080, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+907202080, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+907202080, Full Bathrooms, 235000.0, 235000.0, 0.0
+907202080, Bedrooms Above Ground, 235000.0, 225000.0, 10000.0
+907202080, Kitchen Quality, 235000.0, 235000.0, 0.0
+907202080, Garage Type, 235000.0, 235000.0, 0.0
+907202080, Garage Capacity (Cars), 235000.0, 235000.0, 0.0
+907202080, Garage Area (sqft), 235000.0, 235000.0, 0.0
+528344060, Neighborhood, 245000.0, 245000.0, 0.0
+528344060, Overall Quality, 245000.0, 235000.0, 10000.0
+528344060, Overall Condition, 245000.0, 245000.0, 0.0
+528344060, Year Built, 245000.0, 265000.0, 20000.0
+528344060, Year Remodeled/Added, 245000.0, 265000.0, 20000.0
+528344060, Exterior Quality, 245000.0, 245000.0, 0.0
+528344060, Exterior Condition, 245000.0, 245000.0, 0.0
+528344060, Basement Height Quality, 245000.0, 265000.0, 20000.0
+528344060, Basement Condition, 245000.0, 255000.0, 10000.0
+528344060, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+528344060, Total Basement Area (sqft), 245000.0, 265000.0, 20000.0
+528344060, Heating Quality, 245000.0, 245000.0, 0.0
+528344060, Central Air Conditioning, 245000.0, 245000.0, 0.0
+528344060, First Floor Area (sqft), 245000.0, 265000.0, 20000.0
+528344060, Above Ground Living Area (sqft), 245000.0, 265000.0, 20000.0
+528344060, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+528344060, Full Bathrooms, 245000.0, 245000.0, 0.0
+528344060, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+528344060, Kitchen Quality, 245000.0, 245000.0, 0.0
+528344060, Garage Type, 245000.0, 245000.0, 0.0
+528344060, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+528344060, Garage Area (sqft), 245000.0, 265000.0, 20000.0
+902477120, Neighborhood, 165000.0, 155000.0, 10000.0
+902477120, Overall Quality, 165000.0, 135000.0, 30000.0
+902477120, Overall Condition, 165000.0, 155000.0, 10000.0
+902477120, Year Built, 165000.0, 145000.0, 20000.0
+902477120, Year Remodeled/Added, 165000.0, 165000.0, 0.0
+902477120, Exterior Quality, 165000.0, 145000.0, 20000.0
+902477120, Exterior Condition, 165000.0, 145000.0, 20000.0
+902477120, Basement Height Quality, 165000.0, 165000.0, 0.0
+902477120, Basement Condition, 165000.0, 165000.0, 0.0
+902477120, Basement Finished Area 1 (sqft), 165000.0, 145000.0, 20000.0
+902477120, Total Basement Area (sqft), 165000.0, 145000.0, 20000.0
+902477120, Heating Quality, 165000.0, 145000.0, 20000.0
+902477120, Central Air Conditioning, 165000.0, 165000.0, 0.0
+902477120, First Floor Area (sqft), 165000.0, 145000.0, 20000.0
+902477120, Above Ground Living Area (sqft), 165000.0, 145000.0, 20000.0
+902477120, Basement Full Bathrooms, 165000.0, 165000.0, 0.0
+902477120, Full Bathrooms, 165000.0, 145000.0, 20000.0
+902477120, Bedrooms Above Ground, 165000.0, 145000.0, 20000.0
+902477120, Kitchen Quality, 165000.0, 155000.0, 10000.0
+902477120, Garage Type, 165000.0, 165000.0, 0.0
+902477120, Garage Capacity (Cars), 165000.0, 165000.0, 0.0
+902477120, Garage Area (sqft), 165000.0, 165000.0, 0.0
+527165010, Neighborhood, 245000.0, 245000.0, 0.0
+527165010, Overall Quality, 245000.0, 235000.0, 10000.0
+527165010, Overall Condition, 245000.0, 245000.0, 0.0
+527165010, Year Built, 245000.0, 245000.0, 0.0
+527165010, Year Remodeled/Added, 245000.0, 245000.0, 0.0
+527165010, Exterior Quality, 245000.0, 245000.0, 0.0
+527165010, Exterior Condition, 245000.0, 245000.0, 0.0
+527165010, Basement Height Quality, 245000.0, 245000.0, 0.0
+527165010, Basement Condition, 245000.0, 245000.0, 0.0
+527165010, Basement Finished Area 1 (sqft), 245000.0, 245000.0, 0.0
+527165010, Total Basement Area (sqft), 245000.0, 245000.0, 0.0
+527165010, Heating Quality, 245000.0, 245000.0, 0.0
+527165010, Central Air Conditioning, 245000.0, 245000.0, 0.0
+527165010, First Floor Area (sqft), 245000.0, 245000.0, 0.0
+527165010, Above Ground Living Area (sqft), 245000.0, 245000.0, 0.0
+527165010, Basement Full Bathrooms, 245000.0, 245000.0, 0.0
+527165010, Full Bathrooms, 245000.0, 245000.0, 0.0
+527165010, Bedrooms Above Ground, 245000.0, 245000.0, 0.0
+527165010, Kitchen Quality, 245000.0, 245000.0, 0.0
+527165010, Garage Type, 245000.0, 245000.0, 0.0
+527165010, Garage Capacity (Cars), 245000.0, 245000.0, 0.0
+527165010, Garage Area (sqft), 245000.0, 245000.0, 0.0
+528180110, Neighborhood, 285000.0, 285000.0, 0.0
+528180110, Overall Quality, 285000.0, 265000.0, 20000.0
+528180110, Overall Condition, 285000.0, 285000.0, 0.0
+528180110, Year Built, 285000.0, 285000.0, 0.0
+528180110, Year Remodeled/Added, 285000.0, 285000.0, 0.0
+528180110, Exterior Quality, 285000.0, 285000.0, 0.0
+528180110, Exterior Condition, 285000.0, 285000.0, 0.0
+528180110, Basement Height Quality, 285000.0, 285000.0, 0.0
+528180110, Basement Condition, 285000.0, 285000.0, 0.0
+528180110, Basement Finished Area 1 (sqft), 285000.0, 285000.0, 0.0
+528180110, Total Basement Area (sqft), 285000.0, 285000.0, 0.0
+528180110, Heating Quality, 285000.0, 285000.0, 0.0
+528180110, Central Air Conditioning, 285000.0, 285000.0, 0.0
+528180110, First Floor Area (sqft), 285000.0, 285000.0, 0.0
+528180110, Above Ground Living Area (sqft), 285000.0, 285000.0, 0.0
+528180110, Basement Full Bathrooms, 285000.0, 285000.0, 0.0
+528180110, Full Bathrooms, 285000.0, 285000.0, 0.0
+528180110, Bedrooms Above Ground, 285000.0, 285000.0, 0.0
+528180110, Kitchen Quality, 285000.0, 285000.0, 0.0
+528180110, Garage Type, 285000.0, 285000.0, 0.0
+528180110, Garage Capacity (Cars), 285000.0, 285000.0, 0.0
+528180110, Garage Area (sqft), 285000.0, 265000.0, 20000.0
+533120030, Neighborhood, 285000.0, 285000.0, 0.0
+533120030, Overall Quality, 285000.0, 265000.0, 20000.0
+533120030, Overall Condition, 285000.0, 285000.0, 0.0
+533120030, Year Built, 285000.0, 285000.0, 0.0
+533120030, Year Remodeled/Added, 285000.0, 285000.0, 0.0
+533120030, Exterior Quality, 285000.0, 285000.0, 0.0
+533120030, Exterior Condition, 285000.0, 285000.0, 0.0
+533120030, Basement Height Quality, 285000.0, 285000.0, 0.0
+533120030, Basement Condition, 285000.0, 285000.0, 0.0
+533120030, Basement Finished Area 1 (sqft), 285000.0, 285000.0, 0.0
+533120030, Total Basement Area (sqft), 285000.0, 285000.0, 0.0
+533120030, Heating Quality, 285000.0, 285000.0, 0.0
+533120030, Central Air Conditioning, 285000.0, 285000.0, 0.0
+533120030, First Floor Area (sqft), 285000.0, 285000.0, 0.0
+533120030, Above Ground Living Area (sqft), 285000.0, 285000.0, 0.0
+533120030, Basement Full Bathrooms, 285000.0, 285000.0, 0.0
+533120030, Full Bathrooms, 285000.0, 285000.0, 0.0
+533120030, Bedrooms Above Ground, 285000.0, 285000.0, 0.0
+533120030, Kitchen Quality, 285000.0, 285000.0, 0.0
+533120030, Garage Type, 285000.0, 285000.0, 0.0
+533120030, Garage Capacity (Cars), 285000.0, 285000.0, 0.0
+533120030, Garage Area (sqft), 285000.0, 285000.0, 0.0
+905453040, Neighborhood, 235000.0, 235000.0, 0.0
+905453040, Overall Quality, 235000.0, 225000.0, 10000.0
+905453040, Overall Condition, 235000.0, 235000.0, 0.0
+905453040, Year Built, 235000.0, 245000.0, 10000.0
+905453040, Year Remodeled/Added, 235000.0, 245000.0, 10000.0
+905453040, Exterior Quality, 235000.0, 235000.0, 0.0
+905453040, Exterior Condition, 235000.0, 235000.0, 0.0
+905453040, Basement Height Quality, 235000.0, 235000.0, 0.0
+905453040, Basement Condition, 235000.0, 235000.0, 0.0
+905453040, Basement Finished Area 1 (sqft), 235000.0, 235000.0, 0.0
+905453040, Total Basement Area (sqft), 235000.0, 235000.0, 0.0
+905453040, Heating Quality, 235000.0, 235000.0, 0.0
+905453040, Central Air Conditioning, 235000.0, 235000.0, 0.0
+905453040, First Floor Area (sqft), 235000.0, 235000.0, 0.0
+905453040, Above Ground Living Area (sqft), 235000.0, 235000.0, 0.0
+905453040, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+905453040, Full Bathrooms, 235000.0, 235000.0, 0.0
+905453040, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+905453040, Kitchen Quality, 235000.0, 235000.0, 0.0
+905453040, Garage Type, 235000.0, 235000.0, 0.0
+905453040, Garage Capacity (Cars), 235000.0, 235000.0, 0.0
+905453040, Garage Area (sqft), 235000.0, 235000.0, 0.0
+909277070, Neighborhood, 215000.0, 215000.0, 0.0
+909277070, Overall Quality, 215000.0, 185000.0, 30000.0
+909277070, Overall Condition, 215000.0, 215000.0, 0.0
+909277070, Year Built, 215000.0, 215000.0, 0.0
+909277070, Year Remodeled/Added, 215000.0, 235000.0, 20000.0
+909277070, Exterior Quality, 215000.0, 215000.0, 0.0
+909277070, Exterior Condition, 215000.0, 215000.0, 0.0
+909277070, Basement Height Quality, 215000.0, 215000.0, 0.0
+909277070, Basement Condition, 215000.0, 215000.0, 0.0
+909277070, Basement Finished Area 1 (sqft), 215000.0, 215000.0, 0.0
+909277070, Total Basement Area (sqft), 215000.0, 215000.0, 0.0
+909277070, Heating Quality, 215000.0, 215000.0, 0.0
+909277070, Central Air Conditioning, 215000.0, 215000.0, 0.0
+909277070, First Floor Area (sqft), 215000.0, 225000.0, 10000.0
+909277070, Above Ground Living Area (sqft), 215000.0, 215000.0, 0.0
+909277070, Basement Full Bathrooms, 215000.0, 215000.0, 0.0
+909277070, Full Bathrooms, 215000.0, 215000.0, 0.0
+909277070, Bedrooms Above Ground, 215000.0, 215000.0, 0.0
+909277070, Kitchen Quality, 215000.0, 215000.0, 0.0
+909277070, Garage Type, 215000.0, 215000.0, 0.0
+909277070, Garage Capacity (Cars), 215000.0, 215000.0, 0.0
+909277070, Garage Area (sqft), 215000.0, 215000.0, 0.0
+528427010, Neighborhood, 285000.0, 265000.0, 20000.0
+528427010, Overall Quality, 285000.0, 245000.0, 40000.0
+528427010, Overall Condition, 285000.0, 265000.0, 20000.0
+528427010, Year Built, 285000.0, 285000.0, 0.0
+528427010, Year Remodeled/Added, 285000.0, 285000.0, 0.0
+528427010, Exterior Quality, 285000.0, 265000.0, 20000.0
+528427010, Exterior Condition, 285000.0, 285000.0, 0.0
+528427010, Basement Height Quality, 285000.0, 285000.0, 0.0
+528427010, Basement Condition, 285000.0, 265000.0, 20000.0
+528427010, Basement Finished Area 1 (sqft), 285000.0, 285000.0, 0.0
+528427010, Total Basement Area (sqft), 285000.0, 265000.0, 20000.0
+528427010, Heating Quality, 285000.0, 265000.0, 20000.0
+528427010, Central Air Conditioning, 285000.0, 265000.0, 20000.0
+528427010, First Floor Area (sqft), 285000.0, 285000.0, 0.0
+528427010, Above Ground Living Area (sqft), 285000.0, 265000.0, 20000.0
+528427010, Basement Full Bathrooms, 285000.0, 285000.0, 0.0
+528427010, Full Bathrooms, 285000.0, 265000.0, 20000.0
+528427010, Bedrooms Above Ground, 285000.0, 265000.0, 20000.0
+528427010, Kitchen Quality, 285000.0, 265000.0, 20000.0
+528427010, Garage Type, 285000.0, 265000.0, 20000.0
+528427010, Garage Capacity (Cars), 285000.0, 265000.0, 20000.0
+528427010, Garage Area (sqft), 285000.0, 265000.0, 20000.0
+535382150, Neighborhood, 185000.0, 185000.0, 0.0
+535382150, Overall Quality, 185000.0, 165000.0, 20000.0
+535382150, Overall Condition, 185000.0, 185000.0, 0.0
+535382150, Year Built, 185000.0, 185000.0, 0.0
+535382150, Year Remodeled/Added, 185000.0, 185000.0, 0.0
+535382150, Exterior Quality, 185000.0, 185000.0, 0.0
+535382150, Exterior Condition, 185000.0, 185000.0, 0.0
+535382150, Basement Height Quality, 185000.0, 185000.0, 0.0
+535382150, Basement Condition, 185000.0, 185000.0, 0.0
+535382150, Basement Finished Area 1 (sqft), 185000.0, 185000.0, 0.0
+535382150, Total Basement Area (sqft), 185000.0, 185000.0, 0.0
+535382150, Heating Quality, 185000.0, 185000.0, 0.0
+535382150, Central Air Conditioning, 185000.0, 185000.0, 0.0
+535382150, First Floor Area (sqft), 185000.0, 185000.0, 0.0
+535382150, Above Ground Living Area (sqft), 185000.0, 185000.0, 0.0
+535382150, Basement Full Bathrooms, 185000.0, 185000.0, 0.0
+535382150, Full Bathrooms, 185000.0, 185000.0, 0.0
+535382150, Bedrooms Above Ground, 185000.0, 185000.0, 0.0
+535382150, Kitchen Quality, 185000.0, 185000.0, 0.0
+535382150, Garage Type, 185000.0, 185000.0, 0.0
+535382150, Garage Capacity (Cars), 185000.0, 185000.0, 0.0
+535382150, Garage Area (sqft), 185000.0, 185000.0, 0.0
+905351045, Neighborhood, 235000.0, 225000.0, 10000.0
+905351045, Overall Quality, 235000.0, 185000.0, 50000.0
+905351045, Overall Condition, 235000.0, 225000.0, 10000.0
+905351045, Year Built, 235000.0, 225000.0, 10000.0
+905351045, Year Remodeled/Added, 235000.0, 235000.0, 0.0
+905351045, Exterior Quality, 235000.0, 225000.0, 10000.0
+905351045, Exterior Condition, 235000.0, 225000.0, 10000.0
+905351045, Basement Height Quality, 235000.0, 225000.0, 10000.0
+905351045, Basement Condition, 235000.0, 225000.0, 10000.0
+905351045, Basement Finished Area 1 (sqft), 235000.0, 225000.0, 10000.0
+905351045, Total Basement Area (sqft), 235000.0, 225000.0, 10000.0
+905351045, Heating Quality, 235000.0, 225000.0, 10000.0
+905351045, Central Air Conditioning, 235000.0, 225000.0, 10000.0
+905351045, First Floor Area (sqft), 235000.0, 225000.0, 10000.0
+905351045, Above Ground Living Area (sqft), 235000.0, 225000.0, 10000.0
+905351045, Basement Full Bathrooms, 235000.0, 235000.0, 0.0
+905351045, Full Bathrooms, 235000.0, 225000.0, 10000.0
+905351045, Bedrooms Above Ground, 235000.0, 235000.0, 0.0
+905351045, Kitchen Quality, 235000.0, 235000.0, 0.0
+905351045, Garage Type, 235000.0, 235000.0, 0.0
+905351045, Garage Capacity (Cars), 235000.0, 225000.0, 10000.0
+905351045, Garage Area (sqft), 235000.0, 225000.0, 10000.0
+902405100, Neighborhood, 265000.0, 245000.0, 20000.0
+902405100, Overall Quality, 265000.0, 245000.0, 20000.0
+902405100, Overall Condition, 265000.0, 265000.0, 0.0
+902405100, Year Built, 265000.0, 248000.0, 17000.0
+902405100, Year Remodeled/Added, 265000.0, 245000.0, 20000.0
+902405100, Exterior Quality, 265000.0, 265000.0, 0.0
+902405100, Exterior Condition, 265000.0, 265000.0, 0.0
+902405100, Basement Height Quality, 265000.0, 265000.0, 0.0
+902405100, Basement Condition, 265000.0, 265000.0, 0.0
+902405100, Basement Finished Area 1 (sqft), 265000.0, 245000.0, 20000.0
+902405100, Total Basement Area (sqft), 265000.0, 245000.0, 20000.0
+902405100, Heating Quality, 265000.0, 265000.0, 0.0
+902405100, Central Air Conditioning, 265000.0, 248000.0, 17000.0
+902405100, First Floor Area (sqft), 265000.0, 265000.0, 0.0
+902405100, Above Ground Living Area (sqft), 265000.0, 265000.0, 0.0
+902405100, Basement Full Bathrooms, 265000.0, 265000.0, 0.0
+902405100, Full Bathrooms, 265000.0, 265000.0, 0.0
+902405100, Bedrooms Above Ground, 265000.0, 265000.0, 0.0
+902405100, Kitchen Quality, 265000.0, 265000.0, 0.0
+902405100, Garage Type, 265000.0, 265000.0, 0.0
+902405100, Garage Capacity (Cars), 265000.0, 265000.0, 0.0
+902405100, Garage Area (sqft), 265000.0, 265000.0, 0.0
