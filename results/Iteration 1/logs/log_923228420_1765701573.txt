@@ -1,0 +1,81 @@
+Baseline Price: 175000.0
+----------------------------------------
+Feature: Building Class            | Changed '180' -> '20' | New Price: 175000.0 | Impact: 0.0
+Feature: Zoning Classification     | Changed 'RM' -> 'Low' | New Price: 175000.0 | Impact: 0.0
+Feature: Lot Frontage (ft)         | Changed '21' -> '82' | New Price: 175000.0 | Impact: 0.0
+Feature: Lot Area (sqft)           | Changed '1890' -> '292' | New Price: 165000.0 | Impact: 10000.0
+Feature: Street Type               | Changed 'Pave' -> 'High' | New Price: 175000.0 | Impact: 0.0
+Feature: Alley Access              | Changed 'NA' -> 'Low' | New Price: 175000.0 | Impact: 0.0
+Feature: Lot Shape                 | Changed 'Reg' -> 'Rare' | New Price: 175000.0 | Impact: 0.0
+Feature: Land Contour              | Changed 'Lvl' -> 'Low' | New Price: 175000.0 | Impact: 0.0
+Feature: Utilities                 | Changed 'AllPub' -> 'Unknown' | New Price: 175000.0 | Impact: 0.0
+Feature: Lot Configuration         | Changed 'Inside' -> 'Unknown' | New Price: 175000.0 | Impact: 0.0
+Feature: Land Slope                | Changed 'Gtl' -> 'Low' | New Price: 175000.0 | Impact: 0.0
+Feature: Neighborhood              | Changed 'MeadowV' -> 'Unknown' | New Price: 165000.0 | Impact: 10000.0
+Feature: Proximity to Conditions 1 | Changed 'Norm' -> 'High' | New Price: 175000.0 | Impact: 0.0
+Feature: Proximity to Conditions 2 | Changed 'Norm' -> 'Rare' | New Price: 175000.0 | Impact: 0.0
+Feature: Building Type             | Changed 'Twnhs' -> 'Unknown' | New Price: 185000.0 | Impact: 10000.0
+Feature: House Style               | Changed 'SFoyer' -> 'Rare' | New Price: 165000.0 | Impact: 10000.0
+Feature: Overall Quality           | Changed '4' -> '16' | New Price: 175000.0 | Impact: 0.0
+Feature: Overall Condition         | Changed '7' -> '1' | New Price: 165000.0 | Impact: 10000.0
+Feature: Year Built                | Changed '1972' -> '2919' | New Price: 165000.0 | Impact: 10000.0
+Feature: Year Remodeled/Added      | Changed '1972' -> '287' | New Price: 225000.0 | Impact: 50000.0
+Feature: Roof Style                | Changed 'Gable' -> 'Rare' | New Price: 175000.0 | Impact: 0.0
+Feature: Roof Material             | Changed 'CompShg' -> 'Rare' | New Price: 165000.0 | Impact: 10000.0
+Feature: Exterior Covering 1       | Changed 'CemntBd' -> 'Rare' | New Price: 165000.0 | Impact: 10000.0
+Feature: Exterior Covering 2       | Changed 'CmentBd' -> 'Low' | New Price: 165000.0 | Impact: 10000.0
+Feature: Masonry Veneer Type       | Changed 'None' -> 'High' | New Price: 175000.0 | Impact: 0.0
+Feature: Masonry Veneer Area (sqft) | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Exterior Quality          | Changed 'TA' -> 'Unknown' | New Price: 175000.0 | Impact: 0.0
+Feature: Exterior Condition        | Changed 'Gd' -> 'Other' | New Price: 175000.0 | Impact: 0.0
+Feature: Foundation Type           | Changed 'CBlock' -> 'Rare' | New Price: 165000.0 | Impact: 10000.0
+Feature: Basement Height Quality   | Changed 'Gd' -> 'High' | New Price: 175000.0 | Impact: 0.0
+Feature: Basement Condition        | Changed 'TA' -> 'Other' | New Price: 175000.0 | Impact: 0.0
+Feature: Basement Exposure         | Changed 'Av' -> 'Low' | New Price: 175000.0 | Impact: 0.0
+Feature: Basement Finish Type 1    | Changed 'ALQ' -> 'Rare' | New Price: 175000.0 | Impact: 0.0
+Feature: Basement Finished Area 1 (sqft) | Changed '495' -> '1726' | New Price: 175000.0 | Impact: 0.0
+Feature: Basement Finish Type 2    | Changed 'Unf' -> 'Other' | New Price: 165000.0 | Impact: 10000.0
+Feature: Basement Finished Area 2 (sqft) | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Basement Unfinished Area (sqft) | Changed '135' -> '22' | New Price: 165000.0 | Impact: 10000.0
+Feature: Total Basement Area (sqft) | Changed '630' -> '110' | New Price: 175000.0 | Impact: 0.0
+Feature: Heating Type              | Changed 'GasA' -> 'Unknown' | New Price: 165000.0 | Impact: 10000.0
+Feature: Heating Quality           | Changed 'Gd' -> 'Low' | New Price: 165000.0 | Impact: 10000.0
+Feature: Central Air Conditioning  | Changed 'Y' -> 'Rare' | New Price: 175000.0 | Impact: 0.0
+Feature: Electrical System         | Changed 'SBrkr' -> 'Rare' | New Price: 165000.0 | Impact: 10000.0
+Feature: First Floor Area (sqft)   | Changed '630' -> '2421' | New Price: 225000.0 | Impact: 50000.0
+Feature: Second Floor Area (sqft)  | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Low Quality Finished Area (sqft) | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Above Ground Living Area (sqft) | Changed '630' -> '2041' | New Price: 225000.0 | Impact: 50000.0
+Feature: Basement Full Bathrooms   | Changed '1' -> '4' | New Price: 185000.0 | Impact: 10000.0
+Feature: Basement Half Bathrooms   | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Full Bathrooms            | Changed '1' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Half Bathrooms            | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Bedrooms Above Ground     | Changed '1' -> '3' | New Price: 215000.0 | Impact: 40000.0
+Feature: Kitchens Above Ground     | Changed '1' -> '3' | New Price: 225000.0 | Impact: 50000.0
+Feature: Kitchen Quality           | Changed 'TA' -> 'High' | New Price: 175000.0 | Impact: 0.0
+Feature: Total Rooms Above Ground  | Changed '3' -> '0' | New Price: 165000.0 | Impact: 10000.0
+Feature: Functional Rating         | Changed 'Typ' -> 'Low' | New Price: 165000.0 | Impact: 10000.0
+Feature: Number of Fireplaces      | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Fireplace Quality         | Changed 'NA' -> 'Unknown' | New Price: 175000.0 | Impact: 0.0
+Feature: Garage Type               | Changed 'NA' -> 'Low' | New Price: 165000.0 | Impact: 10000.0
+Feature: Garage Year Built         | Changed '' -> 'Rare' | New Price: 175000.0 | Impact: 0.0
+Feature: Garage Finish Type        | Changed 'NA' -> 'Other' | New Price: 175000.0 | Impact: 0.0
+Feature: Garage Capacity (Cars)    | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Garage Area (sqft)        | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Garage Quality            | Changed 'NA' -> 'Rare' | New Price: 175000.0 | Impact: 0.0
+Feature: Garage Condition          | Changed 'NA' -> 'Other' | New Price: 175000.0 | Impact: 0.0
+Feature: Paved Driveway            | Changed 'Y' -> 'Unknown' | New Price: 175000.0 | Impact: 0.0
+Feature: Wood Deck Area (sqft)     | Changed '88' -> '140' | New Price: 175000.0 | Impact: 0.0
+Feature: Open Porch Area (sqft)    | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Enclosed Porch Area (sqft) | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Three-Season Porch Area (sqft) | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Screen Porch Area (sqft)  | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Pool Area (sqft)          | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Pool Quality              | Changed 'NA' -> 'Other' | New Price: 175000.0 | Impact: 0.0
+Feature: Fence Quality             | Changed 'NA' -> 'Low' | New Price: 165000.0 | Impact: 10000.0
+Feature: Miscellaneous Feature     | Changed 'NA' -> 'Rare' | New Price: 175000.0 | Impact: 0.0
+Feature: Miscellaneous Value       | Changed '0' -> '0' | New Price: 175000.0 | Impact: 0.0
+Feature: Month Sold                | Changed '6' -> '17' | New Price: 175000.0 | Impact: 0.0
+Feature: Year Sold                 | Changed '2008' -> '7487' | New Price: 145000.0 | Impact: 30000.0
+Feature: Sale Type                 | Changed 'WD' -> 'Other' | New Price: 175000.0 | Impact: 0.0
+Feature: Sale Condition            | Changed 'Normal' -> 'Rare' | New Price: 175000.0 | Impact: 0.0

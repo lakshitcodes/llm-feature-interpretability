@@ -1,0 +1,31 @@
+Starting Perturbation Analysis for 5 houses...
+
+=== Processing House 1/5 ===
+ -> Generating new random sample...
+Random sample saved to random_sample.txt
+   Parcel 533205110: Baseline Price = $245000.0
+   -> Finished logs for Parcel 533205110
+
+=== Processing House 2/5 ===
+ -> Generating new random sample...
+Random sample saved to random_sample.txt
+   Parcel 535403210: Baseline Price = $185000.0
+   -> Finished logs for Parcel 535403210
+
+=== Processing House 3/5 ===
+ -> Generating new random sample...
+Random sample saved to random_sample.txt
+   Parcel 923228420: Baseline Price = $175000.0
+   -> Finished logs for Parcel 923228420
+
+=== Processing House 4/5 ===
+ -> Generating new random sample...
+Random sample saved to random_sample.txt
+   Parcel 528186190: Baseline Price = $245000.0
+   -> Finished logs for Parcel 528186190
+
+=== Processing House 5/5 ===
+ -> Generating new random sample...
+Random sample saved to random_sample.txt
+   Parcel 907135260: Baseline Price = $225000.0
+   -> Finished logs for Parcel 907135260

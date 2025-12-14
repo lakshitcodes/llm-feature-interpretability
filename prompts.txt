@@ -1,0 +1,21 @@
+I will provide you with the technical specifications of a residential property in Ames, Iowa. Based on these features, predict the final Sale Price of the house.
+
+Property Details: [INSERT_SERIALIZED_ROW_DATA_HERE]
+
+Task: Analyze the features above and predict the sale price in USD.
+
+Output Format: Return only the predicted price as a raw number. Do not include currency symbols, commas, or explanations in your final answer.
+
+
+
+
+
+
+
+I provided you with data for a house in Ames, Iowa, and you predicted a price of [INSERT_PREDICTED_PRICE].
+
+Below is the property data again for reference: [INSERT_SERIALIZED_ROW_DATA_HERE]
+
+Task: Identify the Top 5 features that most strongly influenced your prediction. For each feature, assign an 'Importance Score' from 0 to 100 (where 100 is the most critical driver of the price).
+
+Required Output Format (JSON): You must return the response in strict JSON format with no other text. { "reasoning_summary": "One sentence explaining the overall logic.", "top_features": [ {"feature": "Feature_Name", "importance_score": 95, "direction": "Positive"}, {"feature": "Feature_Name", "importance_score": 80, "direction": "Negative"} ] }
