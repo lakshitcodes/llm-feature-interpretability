@@ -1,82 +1,82 @@
-Order : 766
-Parcel ID : 0904301375
-Building Class : 030
+Order : 122
+Parcel ID : 0534401140
+Building Class : 020
 Zoning Classification : RL
-Lot Frontage (ft) : 
-Lot Area (sqft) : 10020
+Lot Frontage (ft) : 88
+Lot Area (sqft) : 9680
 Street Type : Pave
 Alley Access : NA
-Lot Shape : IR1
-Land Contour : Low
+Lot Shape : Reg
+Land Contour : Lvl
 Utilities : AllPub
 Lot Configuration : Inside
-Land Slope : Sev
-Neighborhood : Edwards
+Land Slope : Gtl
+Neighborhood : NAmes
 Proximity to Conditions 1 : Norm
 Proximity to Conditions 2 : Norm
 Building Type : 1Fam
 House Style : 1Story
-Overall Quality : 1
-Overall Condition : 1
-Year Built : 1922
-Year Remodeled/Added : 1950
+Overall Quality : 5
+Overall Condition : 6
+Year Built : 1967
+Year Remodeled/Added : 1967
 Roof Style : Gable
 Roof Material : CompShg
 Exterior Covering 1 : Wd Sdng
-Exterior Covering 2 : Wd Sdng
-Masonry Veneer Type : None
-Masonry Veneer Area (sqft) : 0
-Exterior Quality : Fa
-Exterior Condition : Fa
-Foundation Type : BrkTil
-Basement Height Quality : Fa
-Basement Condition : Po
-Basement Exposure : Gd
+Exterior Covering 2 : Plywood
+Masonry Veneer Type : BrkFace
+Masonry Veneer Area (sqft) : 268
+Exterior Quality : TA
+Exterior Condition : TA
+Foundation Type : CBlock
+Basement Height Quality : TA
+Basement Condition : TA
+Basement Exposure : No
 Basement Finish Type 1 : BLQ
-Basement Finished Area 1 (sqft) : 350
+Basement Finished Area 1 (sqft) : 1010
 Basement Finish Type 2 : Unf
 Basement Finished Area 2 (sqft) : 0
-Basement Unfinished Area (sqft) : 333
-Total Basement Area (sqft) : 683
+Basement Unfinished Area (sqft) : 500
+Total Basement Area (sqft) : 1510
 Heating Type : GasA
-Heating Quality : Gd
-Central Air Conditioning : N
-Electrical System : FuseA
-First Floor Area (sqft) : 904
+Heating Quality : Ex
+Central Air Conditioning : Y
+Electrical System : SBrkr
+First Floor Area (sqft) : 1510
 Second Floor Area (sqft) : 0
 Low Quality Finished Area (sqft) : 0
-Above Ground Living Area (sqft) : 904
+Above Ground Living Area (sqft) : 1510
 Basement Full Bathrooms : 1
 Basement Half Bathrooms : 0
-Full Bathrooms : 0
-Half Bathrooms : 1
-Bedrooms Above Ground : 1
+Full Bathrooms : 2
+Half Bathrooms : 0
+Bedrooms Above Ground : 3
 Kitchens Above Ground : 1
-Kitchen Quality : Fa
-Total Rooms Above Ground : 4
-Functional Rating : Maj1
+Kitchen Quality : Gd
+Total Rooms Above Ground : 6
+Functional Rating : Typ
 Number of Fireplaces : 0
 Fireplace Quality : NA
-Garage Type : NA
-Garage Year Built : 
-Garage Finish Type : NA
-Garage Capacity (Cars) : 0
-Garage Area (sqft) : 0
-Garage Quality : NA
-Garage Condition : NA
+Garage Type : Attchd
+Garage Year Built : 1967
+Garage Finish Type : RFn
+Garage Capacity (Cars) : 2
+Garage Area (sqft) : 517
+Garage Quality : TA
+Garage Condition : TA
 Paved Driveway : Y
 Wood Deck Area (sqft) : 0
-Open Porch Area (sqft) : 0
+Open Porch Area (sqft) : 40
 Enclosed Porch Area (sqft) : 0
 Three-Season Porch Area (sqft) : 0
-Screen Porch Area (sqft) : 0
+Screen Porch Area (sqft) : 204
 Pool Area (sqft) : 0
 Pool Quality : NA
-Fence Quality : NA
+Fence Quality : GdPrv
 Miscellaneous Feature : NA
 Miscellaneous Value : 0
-Month Sold : 3
-Year Sold : 2009
+Month Sold : 4
+Year Sold : 2010
 Sale Type : WD 
 Sale Condition : Normal
-Sale Price : 61000
+Sale Price : 178900
